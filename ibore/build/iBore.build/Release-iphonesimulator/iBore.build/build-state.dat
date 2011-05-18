@@ -1,0 +1,1564 @@
+TiBore
+v7
+r0
+t323190286.955133
+cCheck dependencies
+cProcessInfoPlistFile "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/Release-iphonesimulator/iBore.app/Info.plist" iBore-Info.plist
+cCompileXIB "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/MainWindow.xib"
+cCompileXIB "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/RootViewController.xib"
+cCompileXIB "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/DetailViewController.xib"
+cCompileXIB "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/ListViewController.xib"
+cCpResource build/Release-iphonesimulator/iBore.app/borearea.png borearea.png
+cCpResource build/Release-iphonesimulator/iBore.app/bore.png bore.png
+cCpResource build/Release-iphonesimulator/iBore.app/boreSfondo.png boreSfondo.png
+cProcessPCH /var/folders/ag/agieRY3gEWOAjkD2DehWNE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iBore_Prefix-gmajgfmjvzxaeuhgddyszloxqafi/iBore_Prefix.pch.gch iBore_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iBore.build/Release-iphonesimulator/iBore.build/Objects-normal/i386/main.o "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iBore.build/Release-iphonesimulator/iBore.build/Objects-normal/i386/iBoreAppDelegate.o "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/Classes/iBoreAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iBore.build/Release-iphonesimulator/iBore.build/Objects-normal/i386/RootViewController.o "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/Classes/RootViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iBore.build/Release-iphonesimulator/iBore.build/Objects-normal/i386/DetailViewController.o "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/Classes/DetailViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iBore.build/Release-iphonesimulator/iBore.build/Objects-normal/i386/ListViewController.o "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/Classes/ListViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iBore.build/Release-iphonesimulator/iBore.build/Objects-normal/i386/NSObject+SBJSON.o "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/Classes/JSON/NSObject+SBJSON.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iBore.build/Release-iphonesimulator/iBore.build/Objects-normal/i386/NSString+SBJSON.o "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/Classes/JSON/NSString+SBJSON.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iBore.build/Release-iphonesimulator/iBore.build/Objects-normal/i386/SBJsonBase.o "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/Classes/JSON/SBJsonBase.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iBore.build/Release-iphonesimulator/iBore.build/Objects-normal/i386/SBJsonParser.o "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/Classes/JSON/SBJsonParser.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iBore.build/Release-iphonesimulator/iBore.build/Objects-normal/i386/SBJsonWriter.o "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/Classes/JSON/SBJsonWriter.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iBore.build/Release-iphonesimulator/iBore.build/Objects-normal/i386/iBoreModel.o "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/Classes/iBoreModel.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/Release-iphonesimulator/iBore.app/iBore" normal i386
+cGenerateDSYMFile "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/Release-iphonesimulator/iBore.app.dSYM" "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/Release-iphonesimulator/iBore.app/iBore"
+cTouch "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/Release-iphonesimulator/iBore.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/Availability.h
+c000000004CB3FA080000000000001ADD
+t1286863368
+s6877
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+c000000004D5C9B4E0000000000000110
+t1297914702
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D54CFFA00000000002999B0
+t1297403898
+s2726320
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D54CFE5000000000029DA70
+t1297403877
+s2742896
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D54CFB80000000000001466
+t1297403832
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D5615B40000000000000AA1
+t1297487284
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D5616030000000000766870
+t1297487363
+s7759984
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/Availability.h
+c000000004D4F7A2B0000000000001B19
+t1297054251
+s6937
+
+N/Users/peppe/Desktop/iBore/Classes/DetailViewController.h
+c000000004DA4717E0000000000000742
+t1302622590
+s1858
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+i"iBoreModel.h"
+
+N/Users/peppe/Desktop/iBore/Classes/DetailViewController.m
+c000000004DA4759A0000000000002DB5
+t1302623642
+s11701
+i"DetailViewController.h"
+i"ListViewController.h"
+i"iBoreAppDelegate.h"
+i"JSON/JSON.h"
+
+N/Users/peppe/Desktop/iBore/Classes/JSON/JSON.h
+c000000004D2B04BC0000000000000AC5
+t1294664892
+s2757
+i"SBJsonParser.h"
+i"SBJsonWriter.h"
+i"NSObject+SBJSON.h"
+i"NSString+SBJSON.h"
+i<JSON/SBJsonParser.h>
+i<JSON/SBJsonWriter.h>
+i<JSON/NSObject+SBJSON.h>
+i<JSON/NSString+SBJSON.h>
+
+N/Users/peppe/Desktop/iBore/Classes/JSON/NSObject+SBJSON.h
+c000000004D2B04BC000000000000085F
+t1294664892
+s2143
+i<Foundation/Foundation.h>
+
+N/Users/peppe/Desktop/iBore/Classes/JSON/NSObject+SBJSON.m
+c000000004D2B04BC000000000000077D
+t1294664892
+s1917
+i"NSObject+SBJSON.h"
+i"SBJsonWriter.h"
+
+N/Users/peppe/Desktop/iBore/Classes/JSON/NSString+SBJSON.h
+c000000004D2B04BC00000000000007F0
+t1294664892
+s2032
+i<Foundation/Foundation.h>
+
+N/Users/peppe/Desktop/iBore/Classes/JSON/NSString+SBJSON.m
+c000000004D2B04BC000000000000075D
+t1294664892
+s1885
+i"NSString+SBJSON.h"
+i"SBJsonParser.h"
+
+N/Users/peppe/Desktop/iBore/Classes/JSON/SBJsonBase.h
+c000000004D2B04BC0000000000000B82
+t1294664892
+s2946
+i<Foundation/Foundation.h>
+
+N/Users/peppe/Desktop/iBore/Classes/JSON/SBJsonBase.m
+c000000004D2B04BC0000000000000AC1
+t1294664892
+s2753
+i"SBJsonBase.h"
+
+N/Users/peppe/Desktop/iBore/Classes/JSON/SBJsonParser.h
+c000000004D2B04BC0000000000000C8F
+t1294664892
+s3215
+i<Foundation/Foundation.h>
+i"SBJsonBase.h"
+
+N/Users/peppe/Desktop/iBore/Classes/JSON/SBJsonParser.m
+c000000004D2B04BC0000000000003B7A
+t1294664892
+s15226
+i"SBJsonParser.h"
+
+N/Users/peppe/Desktop/iBore/Classes/JSON/SBJsonWriter.h
+c000000004D2B04BC00000000000011D9
+t1294664892
+s4569
+i<Foundation/Foundation.h>
+i"SBJsonBase.h"
+
+N/Users/peppe/Desktop/iBore/Classes/JSON/SBJsonWriter.m
+c000000004D2B04BC000000000000206D
+t1294664892
+s8301
+i"SBJsonWriter.h"
+
+N/Users/peppe/Desktop/iBore/Classes/ListViewController.h
+c000000004D9C85A00000000000000268
+t1302103456
+s616
+i<UIKit/UIKit.h>
+i"iBoreModel.h"
+
+N/Users/peppe/Desktop/iBore/Classes/ListViewController.m
+c000000004DA463B20000000000001D30
+t1302619058
+s7472
+i"ListViewController.h"
+i"JSON/JSON.h"
+i"iBoreAppDelegate.h"
+i"DetailViewController.h"
+
+N/Users/peppe/Desktop/iBore/Classes/RootViewController.h
+c000000004D95967000000000000001A0
+t1301649008
+s416
+i<UIKit/UIKit.h>
+i"iBoreModel.h"
+
+N/Users/peppe/Desktop/iBore/Classes/RootViewController.m
+c000000004D959BC800000000000010F7
+t1301650376
+s4343
+i"RootViewController.h"
+i"DetailViewController.h"
+i"iBoreAppDelegate.h"
+
+N/Users/peppe/Desktop/iBore/Classes/iBoreAppDelegate.h
+c000000004D89D4C600000000000001C6
+t1300878534
+s454
+i<UIKit/UIKit.h>
+
+N/Users/peppe/Desktop/iBore/Classes/iBoreAppDelegate.m
+c000000004D9589F40000000000000AB5
+t1301645812
+s2741
+i"iBoreAppDelegate.h"
+i"RootViewController.h"
+i"iBoreModel.h"
+
+N/Users/peppe/Desktop/iBore/Classes/iBoreModel.h
+c000000004DA4608C0000000000000DD4
+t1302618252
+s3540
+i<Foundation/Foundation.h>
+
+N/Users/peppe/Desktop/iBore/Classes/iBoreModel.m
+c000000004DA576DC0000000000004D5C
+t1302689500
+s19804
+i"iBoreModel.h"
+i"JSON/JSON.h"
+
+N/Users/peppe/Desktop/iBore/CustomCell.xib
+c000000004D9815D6000000000000402D
+t1301812694
+s16429
+
+N/Users/peppe/Desktop/iBore/DetailViewController.xib
+c000000004DA4A6400000000000008217
+t1302636096
+s33303
+
+N/Users/peppe/Desktop/iBore/ListViewController.xib
+c000000004D9F6C5E0000000000005035
+t1302293598
+s20533
+
+N/Users/peppe/Desktop/iBore/MainWindow.xib
+c000000004D89D4C60000000000005FEC
+t1300878534
+s24556
+
+N/Users/peppe/Desktop/iBore/RootViewController.xib
+c000000004D9DF54C0000000000003F18
+t1302197580
+s16152
+
+N/Users/peppe/Desktop/iBore/bg_horizontal.png
+c000000004D9E46940000000000024C4A
+t1302218388
+s150602
+
+N/Users/peppe/Desktop/iBore/bg_vertical.png
+c000000004D9E4694000000000001F93A
+t1302218388
+s129338
+
+N/Users/peppe/Desktop/iBore/boreSfondo.png
+c000000004D92FC5200000000000086F7
+t1301478482
+s34551
+
+N/Users/peppe/Desktop/iBore/build/Release-iphonesimulator/iBore.app
+t1302692837
+s408
+
+N/Users/peppe/Desktop/iBore/build/Release-iphonesimulator/iBore.app.dSYM
+t1302692837
+s102
+
+N/Users/peppe/Desktop/iBore/build/Release-iphonesimulator/iBore.app/CustomCell.nib
+t2
+s0
+
+N/Users/peppe/Desktop/iBore/build/Release-iphonesimulator/iBore.app/DetailViewController.nib
+t1301497480
+s1131
+
+N/Users/peppe/Desktop/iBore/build/Release-iphonesimulator/iBore.app/Info.plist
+t1301497478
+s617
+
+N/Users/peppe/Desktop/iBore/build/Release-iphonesimulator/iBore.app/ListViewController.nib
+t1301497482
+s1000
+
+N/Users/peppe/Desktop/iBore/build/Release-iphonesimulator/iBore.app/MainWindow.nib
+t1301497478
+s1507
+
+N/Users/peppe/Desktop/iBore/build/Release-iphonesimulator/iBore.app/PkgInfo
+t1301497478
+s8
+
+N/Users/peppe/Desktop/iBore/build/Release-iphonesimulator/iBore.app/RootViewController.nib
+t1301497480
+s797
+
+N/Users/peppe/Desktop/iBore/build/Release-iphonesimulator/iBore.app/bg_horizontal.png
+t2
+s0
+
+N/Users/peppe/Desktop/iBore/build/Release-iphonesimulator/iBore.app/bg_vertical.png
+t2
+s0
+
+N/Users/peppe/Desktop/iBore/build/Release-iphonesimulator/iBore.app/boreSfondo.png
+t1301497482
+s34551
+
+N/Users/peppe/Desktop/iBore/build/Release-iphonesimulator/iBore.app/document-60.png
+t2
+s0
+
+N/Users/peppe/Desktop/iBore/build/Release-iphonesimulator/iBore.app/document-75.png
+t2
+s0
+
+N/Users/peppe/Desktop/iBore/build/Release-iphonesimulator/iBore.app/iBore
+t1301497486
+s63268
+
+N/Users/peppe/Desktop/iBore/build/Release-iphonesimulator/iBore.app/ico_allegato_20x20.png
+t2
+s0
+
+N/Users/peppe/Desktop/iBore/build/Release-iphonesimulator/iBore.app/likeit.png
+t2
+s0
+
+N/Users/peppe/Desktop/iBore/build/Release-iphonesimulator/iBore.app/logo_ibore.png
+t2
+s0
+
+N/Users/peppe/Desktop/iBore/build/Release-iphonesimulator/iBore.app/unlikeit.png
+t2
+s0
+
+N/Users/peppe/Desktop/iBore/build/iBore.build/Release-iphonesimulator/iBore.build/Objects-normal/i386/DetailViewController.o
+t1301497484
+s66104
+
+N/Users/peppe/Desktop/iBore/build/iBore.build/Release-iphonesimulator/iBore.build/Objects-normal/i386/ListViewController.o
+t1301497486
+s56308
+
+N/Users/peppe/Desktop/iBore/build/iBore.build/Release-iphonesimulator/iBore.build/Objects-normal/i386/NSObject+SBJSON.o
+t1301497486
+s7452
+
+N/Users/peppe/Desktop/iBore/build/iBore.build/Release-iphonesimulator/iBore.build/Objects-normal/i386/NSString+SBJSON.o
+t1301497486
+s7344
+
+N/Users/peppe/Desktop/iBore/build/iBore.build/Release-iphonesimulator/iBore.build/Objects-normal/i386/RootViewController.o
+t1301497484
+s40472
+
+N/Users/peppe/Desktop/iBore/build/iBore.build/Release-iphonesimulator/iBore.build/Objects-normal/i386/SBJsonBase.o
+t1301497486
+s12796
+
+N/Users/peppe/Desktop/iBore/build/iBore.build/Release-iphonesimulator/iBore.build/Objects-normal/i386/SBJsonParser.o
+t1301497486
+s33216
+
+N/Users/peppe/Desktop/iBore/build/iBore.build/Release-iphonesimulator/iBore.build/Objects-normal/i386/SBJsonWriter.o
+t1301497486
+s24044
+
+N/Users/peppe/Desktop/iBore/build/iBore.build/Release-iphonesimulator/iBore.build/Objects-normal/i386/iBore.LinkFileList
+c000000004D9346860000000000000600
+t1301497478
+s1536
+
+N/Users/peppe/Desktop/iBore/build/iBore.build/Release-iphonesimulator/iBore.build/Objects-normal/i386/iBoreAppDelegate.o
+t1301497484
+s52120
+
+N/Users/peppe/Desktop/iBore/build/iBore.build/Release-iphonesimulator/iBore.build/Objects-normal/i386/iBoreModel.o
+t1301497486
+s19676
+
+N/Users/peppe/Desktop/iBore/build/iBore.build/Release-iphonesimulator/iBore.build/Objects-normal/i386/main.o
+t1301497484
+s6308
+
+N/Users/peppe/Desktop/iBore/document-60.png
+c000000004D9CA5B800000000000012D5
+t1302111672
+s4821
+
+N/Users/peppe/Desktop/iBore/document-75.png
+c000000004D9816D4000000000000174D
+t1301812948
+s5965
+
+N/Users/peppe/Desktop/iBore/iBore_Prefix.pch
+c000000004D89D4C6000000000000013C
+t1300878534
+s316
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/peppe/Desktop/iBore/ico_allegato_20x20.png
+c000000004D9442D000000000000003C5
+t1301562064
+s965
+
+N/Users/peppe/Desktop/iBore/likeit.png
+c000000004D95CDD800000000000006AD
+t1301663192
+s1709
+
+N/Users/peppe/Desktop/iBore/logo_ibore.png
+c000000004D9E46940000000000004A53
+t1302218388
+s19027
+
+N/Users/peppe/Desktop/iBore/main.m
+c000000004D89D4C60000000000000160
+t1300878534
+s352
+i<UIKit/UIKit.h>
+
+N/Users/peppe/Desktop/iBore/unlikeit.png
+c000000004D95E7F600000000000007B5
+t1301669878
+s1973
+
+N/Users/peppe/Desktop/iBore_desktop/Classes/AttributeStructure.h
+c000000004DA5BCBC0000000000000407
+t1302707388
+s1031
+i<Foundation/Foundation.h>
+
+N/Users/peppe/Desktop/iBore_desktop/Classes/AttributeStructure.m
+c000000004DA5BC9300000000000005ED
+t1302707347
+s1517
+i"AttributeStructure.h"
+i"JSON/JSON.h"
+
+N/Users/peppe/Desktop/iBore_desktop/Classes/DetailViewController.h
+c000000004DB009970000000000000868
+t1303382423
+s2152
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+i"iBoreModel.h"
+
+N/Users/peppe/Desktop/iBore_desktop/Classes/DetailViewController.m
+c000000004DB948B50000000000003B65
+t1303988405
+s15205
+i"DetailViewController.h"
+i"ListViewController.h"
+i"iBoreAppDelegate.h"
+i"JSON/JSON.h"
+
+N/Users/peppe/Desktop/iBore_desktop/Classes/JSON/JSON.h
+c000000004D2B12CC0000000000000AC5
+t1294668492
+s2757
+i"SBJsonParser.h"
+i"SBJsonWriter.h"
+i"NSObject+SBJSON.h"
+i"NSString+SBJSON.h"
+i<JSON/SBJsonParser.h>
+i<JSON/SBJsonWriter.h>
+i<JSON/NSObject+SBJSON.h>
+i<JSON/NSString+SBJSON.h>
+
+N/Users/peppe/Desktop/iBore_desktop/Classes/JSON/NSObject+SBJSON.h
+c000000004D2B12CC000000000000085F
+t1294668492
+s2143
+i<Foundation/Foundation.h>
+
+N/Users/peppe/Desktop/iBore_desktop/Classes/JSON/NSObject+SBJSON.m
+c000000004D2B12CC000000000000077D
+t1294668492
+s1917
+i"NSObject+SBJSON.h"
+i"SBJsonWriter.h"
+
+N/Users/peppe/Desktop/iBore_desktop/Classes/JSON/NSString+SBJSON.h
+c000000004D2B12CC00000000000007F0
+t1294668492
+s2032
+i<Foundation/Foundation.h>
+
+N/Users/peppe/Desktop/iBore_desktop/Classes/JSON/NSString+SBJSON.m
+c000000004D2B12CC000000000000075D
+t1294668492
+s1885
+i"NSString+SBJSON.h"
+i"SBJsonParser.h"
+
+N/Users/peppe/Desktop/iBore_desktop/Classes/JSON/SBJsonBase.h
+c000000004D2B12CC0000000000000B82
+t1294668492
+s2946
+i<Foundation/Foundation.h>
+
+N/Users/peppe/Desktop/iBore_desktop/Classes/JSON/SBJsonBase.m
+c000000004D2B12CC0000000000000AC1
+t1294668492
+s2753
+i"SBJsonBase.h"
+
+N/Users/peppe/Desktop/iBore_desktop/Classes/JSON/SBJsonParser.h
+c000000004D2B12CC0000000000000C8F
+t1294668492
+s3215
+i<Foundation/Foundation.h>
+i"SBJsonBase.h"
+
+N/Users/peppe/Desktop/iBore_desktop/Classes/JSON/SBJsonParser.m
+c000000004D2B12CC0000000000003B7A
+t1294668492
+s15226
+i"SBJsonParser.h"
+
+N/Users/peppe/Desktop/iBore_desktop/Classes/JSON/SBJsonWriter.h
+c000000004D2B12CC00000000000011D9
+t1294668492
+s4569
+i<Foundation/Foundation.h>
+i"SBJsonBase.h"
+
+N/Users/peppe/Desktop/iBore_desktop/Classes/JSON/SBJsonWriter.m
+c000000004D2B12CC000000000000206D
+t1294668492
+s8301
+i"SBJsonWriter.h"
+
+N/Users/peppe/Desktop/iBore_desktop/Classes/ListViewController.h
+c000000004DAEAF5000000000000002A3
+t1303293776
+s675
+i<UIKit/UIKit.h>
+i"iBoreModel.h"
+
+N/Users/peppe/Desktop/iBore_desktop/Classes/ListViewController.m
+c000000004DB00E2F0000000000001E81
+t1303383599
+s7809
+i"ListViewController.h"
+i"JSON/JSON.h"
+i"iBoreAppDelegate.h"
+i"DetailViewController.h"
+
+N/Users/peppe/Desktop/iBore_desktop/Classes/RootViewController.h
+c000000004D95967000000000000001A0
+t1301649008
+s416
+i<UIKit/UIKit.h>
+i"iBoreModel.h"
+
+N/Users/peppe/Desktop/iBore_desktop/Classes/RootViewController.m
+c000000004DB287DB000000000000111E
+t1303545819
+s4382
+i"RootViewController.h"
+i"DetailViewController.h"
+i"iBoreAppDelegate.h"
+
+N/Users/peppe/Desktop/iBore_desktop/Classes/TypeStructure.h
+c000000004DA60526000000000000021F
+t1302725926
+s543
+i<Foundation/Foundation.h>
+
+N/Users/peppe/Desktop/iBore_desktop/Classes/TypeStructure.m
+c000000004DA6054600000000000006AB
+t1302725958
+s1707
+i"TypeStructure.h"
+i"JSON/JSON.h"
+i"AttributeStructure.h"
+
+N/Users/peppe/Desktop/iBore_desktop/Classes/iBoreAppDelegate.h
+c000000004D89E2D600000000000001C6
+t1300882134
+s454
+i<UIKit/UIKit.h>
+
+N/Users/peppe/Desktop/iBore_desktop/Classes/iBoreAppDelegate.m
+c000000004D9589F40000000000000AB5
+t1301645812
+s2741
+i"iBoreAppDelegate.h"
+i"RootViewController.h"
+i"iBoreModel.h"
+
+N/Users/peppe/Desktop/iBore_desktop/Classes/iBoreModel.h
+c000000004DB943790000000000000ED7
+t1303987065
+s3799
+i<Foundation/Foundation.h>
+
+N/Users/peppe/Desktop/iBore_desktop/Classes/iBoreModel.m
+c000000004DBBBC71000000000000598F
+t1304149105
+s22927
+i"iBoreModel.h"
+i"JSON/JSON.h"
+
+N/Users/peppe/Desktop/iBore_desktop/CustomCell.xib
+c000000004D981600000000000000402D
+t1301812736
+s16429
+
+N/Users/peppe/Desktop/iBore_desktop/DetailViewController.xib
+c000000004DB009BC0000000000008930
+t1303382460
+s35120
+
+N/Users/peppe/Desktop/iBore_desktop/ListViewController.xib
+c000000004DA7131F0000000000005035
+t1302795039
+s20533
+
+N/Users/peppe/Desktop/iBore_desktop/MainWindow.xib
+c000000004D89E2D60000000000005FEC
+t1300882134
+s24556
+
+N/Users/peppe/Desktop/iBore_desktop/RootViewController.xib
+c000000004D9DF54B0000000000003F18
+t1302197579
+s16152
+
+N/Users/peppe/Desktop/iBore_desktop/bg_horizontal.png
+c000000004D9E46940000000000024C4A
+t1302218388
+s150602
+
+N/Users/peppe/Desktop/iBore_desktop/bg_vertical.png
+c000000004D9E4694000000000001F93A
+t1302218388
+s129338
+
+N/Users/peppe/Desktop/iBore_desktop/build/Release-iphonesimulator/iBore.app
+t1301497486
+s408
+
+N/Users/peppe/Desktop/iBore_desktop/build/Release-iphonesimulator/iBore.app.dSYM
+t1301497486
+s102
+
+N/Users/peppe/Desktop/iBore_desktop/build/Release-iphonesimulator/iBore.app/CustomCell.nib
+t2
+s0
+
+N/Users/peppe/Desktop/iBore_desktop/build/Release-iphonesimulator/iBore.app/DetailViewController.nib
+t1301497480
+s1131
+
+N/Users/peppe/Desktop/iBore_desktop/build/Release-iphonesimulator/iBore.app/Info.plist
+t1301497477
+s617
+
+N/Users/peppe/Desktop/iBore_desktop/build/Release-iphonesimulator/iBore.app/ListViewController.nib
+t1301497481
+s1000
+
+N/Users/peppe/Desktop/iBore_desktop/build/Release-iphonesimulator/iBore.app/MainWindow.nib
+t1301497478
+s1507
+
+N/Users/peppe/Desktop/iBore_desktop/build/Release-iphonesimulator/iBore.app/PkgInfo
+t1301497477
+s8
+
+N/Users/peppe/Desktop/iBore_desktop/build/Release-iphonesimulator/iBore.app/RootViewController.nib
+t1301497479
+s797
+
+N/Users/peppe/Desktop/iBore_desktop/build/Release-iphonesimulator/iBore.app/bg_horizontal.png
+t2
+s0
+
+N/Users/peppe/Desktop/iBore_desktop/build/Release-iphonesimulator/iBore.app/bg_vertical.png
+t2
+s0
+
+N/Users/peppe/Desktop/iBore_desktop/build/Release-iphonesimulator/iBore.app/document-60.png
+t2
+s0
+
+N/Users/peppe/Desktop/iBore_desktop/build/Release-iphonesimulator/iBore.app/iBore
+t1301497486
+s63268
+
+N/Users/peppe/Desktop/iBore_desktop/build/Release-iphonesimulator/iBore.app/ico_allegato_20x20.png
+t2
+s0
+
+N/Users/peppe/Desktop/iBore_desktop/build/Release-iphonesimulator/iBore.app/likeit.png
+t2
+s0
+
+N/Users/peppe/Desktop/iBore_desktop/build/Release-iphonesimulator/iBore.app/logo_ibore.png
+t2
+s0
+
+N/Users/peppe/Desktop/iBore_desktop/build/Release-iphonesimulator/iBore.app/unlikeit.png
+t2
+s0
+
+N/Users/peppe/Desktop/iBore_desktop/build/iBore.build/Release-iphonesimulator/iBore.build/Objects-normal/i386/AttributeStructure.o
+t2
+s0
+
+N/Users/peppe/Desktop/iBore_desktop/build/iBore.build/Release-iphonesimulator/iBore.build/Objects-normal/i386/DetailViewController.o
+t1301497484
+s66104
+
+N/Users/peppe/Desktop/iBore_desktop/build/iBore.build/Release-iphonesimulator/iBore.build/Objects-normal/i386/ListViewController.o
+t1301497485
+s56308
+
+N/Users/peppe/Desktop/iBore_desktop/build/iBore.build/Release-iphonesimulator/iBore.build/Objects-normal/i386/NSObject+SBJSON.o
+t1301497485
+s7452
+
+N/Users/peppe/Desktop/iBore_desktop/build/iBore.build/Release-iphonesimulator/iBore.build/Objects-normal/i386/NSString+SBJSON.o
+t1301497485
+s7344
+
+N/Users/peppe/Desktop/iBore_desktop/build/iBore.build/Release-iphonesimulator/iBore.build/Objects-normal/i386/RootViewController.o
+t1301497483
+s40472
+
+N/Users/peppe/Desktop/iBore_desktop/build/iBore.build/Release-iphonesimulator/iBore.build/Objects-normal/i386/SBJsonBase.o
+t1301497485
+s12796
+
+N/Users/peppe/Desktop/iBore_desktop/build/iBore.build/Release-iphonesimulator/iBore.build/Objects-normal/i386/SBJsonParser.o
+t1301497486
+s33216
+
+N/Users/peppe/Desktop/iBore_desktop/build/iBore.build/Release-iphonesimulator/iBore.build/Objects-normal/i386/SBJsonWriter.o
+t1301497486
+s24044
+
+N/Users/peppe/Desktop/iBore_desktop/build/iBore.build/Release-iphonesimulator/iBore.build/Objects-normal/i386/TypeStructure.o
+t2
+s0
+
+N/Users/peppe/Desktop/iBore_desktop/build/iBore.build/Release-iphonesimulator/iBore.build/Objects-normal/i386/iBore.LinkFileList
+c000000004D9346850000000000000600
+t1301497477
+s1536
+
+N/Users/peppe/Desktop/iBore_desktop/build/iBore.build/Release-iphonesimulator/iBore.build/Objects-normal/i386/iBoreAppDelegate.o
+t1301497483
+s52120
+
+N/Users/peppe/Desktop/iBore_desktop/build/iBore.build/Release-iphonesimulator/iBore.build/Objects-normal/i386/iBoreModel.o
+t1301497486
+s19676
+
+N/Users/peppe/Desktop/iBore_desktop/build/iBore.build/Release-iphonesimulator/iBore.build/Objects-normal/i386/main.o
+t1301497483
+s6308
+
+N/Users/peppe/Desktop/iBore_desktop/document-60.png
+c000000004D9CA5B800000000000012D5
+t1302111672
+s4821
+
+N/Users/peppe/Desktop/iBore_desktop/iBore_Prefix.pch
+c000000004D89E2D6000000000000013C
+t1300882134
+s316
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/peppe/Desktop/iBore_desktop/ico_allegato_20x20.png
+c000000004D9442D000000000000003C5
+t1301562064
+s965
+
+N/Users/peppe/Desktop/iBore_desktop/likeit.png
+c000000004D95CDD700000000000006AD
+t1301663191
+s1709
+
+N/Users/peppe/Desktop/iBore_desktop/logo_ibore.png
+c000000004D9E46940000000000004A53
+t1302218388
+s19027
+
+N/Users/peppe/Desktop/iBore_desktop/main.m
+c000000004D89E2D60000000000000160
+t1300882134
+s352
+i<UIKit/UIKit.h>
+
+N/Users/peppe/Desktop/iBore_desktop/unlikeit.png
+c000000004D95E7F600000000000007B5
+t1301669878
+s1973
+
+N/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/Classes/DetailViewController.h
+c000000004D933AB60000000000000384
+t1301494454
+s900
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+i"iBoreModel.h"
+
+N/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/Classes/DetailViewController.m
+c000000004D9306420000000000001AA1
+t1301481026
+s6817
+i"DetailViewController.h"
+i"ListViewController.h"
+i"iBoreAppDelegate.h"
+i"JSON/JSON.h"
+
+N/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/Classes/JSON/JSON.h
+c000000004D2B12CC0000000000000AC5
+t1294668492
+s2757
+i"SBJsonParser.h"
+i"SBJsonWriter.h"
+i"NSObject+SBJSON.h"
+i"NSString+SBJSON.h"
+i<JSON/SBJsonParser.h>
+i<JSON/SBJsonWriter.h>
+i<JSON/NSObject+SBJSON.h>
+i<JSON/NSString+SBJSON.h>
+
+N/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/Classes/JSON/NSObject+SBJSON.h
+c000000004D2B12CC000000000000085F
+t1294668492
+s2143
+i<Foundation/Foundation.h>
+
+N/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/Classes/JSON/NSObject+SBJSON.m
+c000000004D2B12CC000000000000077D
+t1294668492
+s1917
+i"NSObject+SBJSON.h"
+i"SBJsonWriter.h"
+
+N/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/Classes/JSON/NSString+SBJSON.h
+c000000004D2B12CC00000000000007F0
+t1294668492
+s2032
+i<Foundation/Foundation.h>
+
+N/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/Classes/JSON/NSString+SBJSON.m
+c000000004D2B12CC000000000000075D
+t1294668492
+s1885
+i"NSString+SBJSON.h"
+i"SBJsonParser.h"
+
+N/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/Classes/JSON/SBJsonBase.h
+c000000004D2B12CC0000000000000B82
+t1294668492
+s2946
+i<Foundation/Foundation.h>
+
+N/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/Classes/JSON/SBJsonBase.m
+c000000004D2B12CC0000000000000AC1
+t1294668492
+s2753
+i"SBJsonBase.h"
+
+N/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/Classes/JSON/SBJsonParser.h
+c000000004D2B12CC0000000000000C8F
+t1294668492
+s3215
+i<Foundation/Foundation.h>
+i"SBJsonBase.h"
+
+N/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/Classes/JSON/SBJsonParser.m
+c000000004D2B12CC0000000000003B7A
+t1294668492
+s15226
+i"SBJsonParser.h"
+
+N/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/Classes/JSON/SBJsonWriter.h
+c000000004D2B12CC00000000000011D9
+t1294668492
+s4569
+i<Foundation/Foundation.h>
+i"SBJsonBase.h"
+
+N/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/Classes/JSON/SBJsonWriter.m
+c000000004D2B12CC000000000000206D
+t1294668492
+s8301
+i"SBJsonWriter.h"
+
+N/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/Classes/ListViewController.h
+c000000004D9065400000000000000242
+t1301308736
+s578
+i<UIKit/UIKit.h>
+i"iBoreModel.h"
+
+N/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/Classes/ListViewController.m
+c000000004D90C2FC0000000000001936
+t1301332732
+s6454
+i"ListViewController.h"
+i"JSON/JSON.h"
+i"iBoreAppDelegate.h"
+i"DetailViewController.h"
+
+N/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/Classes/RootViewController.h
+c000000004D90592E0000000000000140
+t1301305646
+s320
+i<UIKit/UIKit.h>
+i"iBoreModel.h"
+
+N/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/Classes/RootViewController.m
+c000000004D933AA200000000000007DA
+t1301494434
+s2010
+i"RootViewController.h"
+i"DetailViewController.h"
+
+N/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/Classes/iBoreAppDelegate.h
+c000000004D89E2D600000000000001C6
+t1300882134
+s454
+i<UIKit/UIKit.h>
+
+N/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/Classes/iBoreAppDelegate.m
+c000000004D89E2D60000000000000A98
+t1300882134
+s2712
+i"iBoreAppDelegate.h"
+i"RootViewController.h"
+
+N/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/Classes/iBoreModel.h
+c000000004D92E8770000000000000A65
+t1301473399
+s2661
+i<Foundation/Foundation.h>
+
+N/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/Classes/iBoreModel.m
+c000000004D92F87C00000000000014D7
+t1301477500
+s5335
+i"iBoreModel.h"
+i"JSON/JSON.h"
+
+N/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/DetailViewController.xib
+c000000004D93408D0000000000005141
+t1301495949
+s20801
+
+N/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/ListViewController.xib
+c000000004D89E58000000000000042B8
+t1300882816
+s17080
+
+N/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/MainWindow.xib
+c000000004D89E2D60000000000005FEC
+t1300882134
+s24556
+
+N/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/RootViewController.xib
+c000000004D89E3A50000000000003C93
+t1300882341
+s15507
+
+N/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/bore.png
+c000000004D92F7B70000000000002502
+t1301477303
+s9474
+
+N/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/boreSfondo.png
+c000000004D92FC5100000000000086F7
+t1301478481
+s34551
+
+N/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/borearea.png
+c000000004D8C73D600000000000008C0
+t1301050326
+s2240
+
+N/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/Release-iphonesimulator/iBore.app
+t1301497486
+s408
+
+N/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/Release-iphonesimulator/iBore.app.dSYM
+t1301497486
+s102
+
+N/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/Release-iphonesimulator/iBore.app/DetailViewController.nib
+t1301497480
+s1131
+
+N/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/Release-iphonesimulator/iBore.app/Info.plist
+t1301497477
+s617
+
+N/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/Release-iphonesimulator/iBore.app/ListViewController.nib
+t1301497481
+s1000
+
+N/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/Release-iphonesimulator/iBore.app/MainWindow.nib
+t1301497478
+s1507
+
+N/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/Release-iphonesimulator/iBore.app/PkgInfo
+t1301497477
+s8
+
+N/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/Release-iphonesimulator/iBore.app/RootViewController.nib
+t1301497479
+s797
+
+N/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/Release-iphonesimulator/iBore.app/bore.png
+t1301497481
+s9474
+
+N/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/Release-iphonesimulator/iBore.app/boreSfondo.png
+t1301497481
+s34551
+
+N/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/Release-iphonesimulator/iBore.app/borearea.png
+t1301497481
+s2240
+
+N/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/Release-iphonesimulator/iBore.app/iBore
+t1301497486
+s63268
+
+N/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/iBore.build/Release-iphonesimulator/iBore.build/Objects-normal/i386/DetailViewController.o
+t1301497484
+s66104
+
+N/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/iBore.build/Release-iphonesimulator/iBore.build/Objects-normal/i386/ListViewController.o
+t1301497485
+s56308
+
+N/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/iBore.build/Release-iphonesimulator/iBore.build/Objects-normal/i386/NSObject+SBJSON.o
+t1301497485
+s7452
+
+N/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/iBore.build/Release-iphonesimulator/iBore.build/Objects-normal/i386/NSString+SBJSON.o
+t1301497485
+s7344
+
+N/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/iBore.build/Release-iphonesimulator/iBore.build/Objects-normal/i386/RootViewController.o
+t1301497483
+s40472
+
+N/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/iBore.build/Release-iphonesimulator/iBore.build/Objects-normal/i386/SBJsonBase.o
+t1301497485
+s12796
+
+N/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/iBore.build/Release-iphonesimulator/iBore.build/Objects-normal/i386/SBJsonParser.o
+t1301497486
+s33216
+
+N/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/iBore.build/Release-iphonesimulator/iBore.build/Objects-normal/i386/SBJsonWriter.o
+t1301497486
+s24044
+
+N/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/iBore.build/Release-iphonesimulator/iBore.build/Objects-normal/i386/iBore.LinkFileList
+c000000004D9346850000000000000600
+t1301497477
+s1536
+
+N/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/iBore.build/Release-iphonesimulator/iBore.build/Objects-normal/i386/iBoreAppDelegate.o
+t1301497483
+s52120
+
+N/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/iBore.build/Release-iphonesimulator/iBore.build/Objects-normal/i386/iBoreModel.o
+t1301497486
+s19676
+
+N/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/iBore.build/Release-iphonesimulator/iBore.build/Objects-normal/i386/main.o
+t1301497483
+s6308
+
+N/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/iBore_Prefix.pch
+c000000004D89E2D6000000000000013C
+t1300882134
+s316
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/main.m
+c000000004D89E2D60000000000000160
+t1300882134
+s352
+i<UIKit/UIKit.h>
+
+N/var/folders/ag/agieRY3gEWOAjkD2DehWNE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iBore_Prefix-gdglyyvaerjqorcmkqqsuciwlfir/iBore_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/ag/agieRY3gEWOAjkD2DehWNE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iBore_Prefix-gmajgfmjvzxaeuhgddyszloxqafi/iBore_Prefix.pch.gch
+t1301497483
+s15113424
+
+N/var/folders/ky/kyqebGA2EAuE7lFhTRnf+U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iBore_Prefix-hgkmetmxnyonvygryqqkbytctzuo/iBore_Prefix.pch.gch
+t2
+s0
+
+NiBore-Info.plist
+c000000004DBBBAF90000000000000456
+t1304148729
+s1110
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies323190277#323190277#0(0"0(0#1#0"8615857472#0"0#
+
+CCompileC build/iBore.build/Release-iphonesimulator/iBore.build/Objects-normal/i386/AttributeStructure.o /Users/peppe/Desktop/iBore_desktop/Classes/AttributeStructure.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/iBore.build/Release-iphonesimulator/iBore.build/Objects-normal/i386/DetailViewController.o "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/Classes/DetailViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s323190283.992580
+e323190284.752563
+r1
+xCompileC
+xbuild/iBore.build/Release-iphonesimulator/iBore.build/Objects-normal/i386/DetailViewController.o
+x/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/Classes/DetailViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@87"Compile /Users/peppe/Dropbox/Tirocinio/My Projects/iBore/Classes/DetailViewController.m323190283#323190284#0(0"0(0#0#79"/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/Classes/DetailViewController.m8612577024#2105"    cd "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/iBore.build/Release-iphonesimulator/iBore.build/iBore-generated-files.hmap" "-I/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/iBore.build/Release-iphonesimulator/iBore.build/iBore-own-target-headers.hmap" "-I/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/iBore.build/Release-iphonesimulator/iBore.build/iBore-all-target-headers.hmap" -iquote "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/iBore.build/Release-iphonesimulator/iBore.build/iBore-project-headers.hmap" "-F/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/Release-iphonesimulator" "-I/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/Release-iphonesimulator/include" "-I/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/iBore.build/Release-iphonesimulator/iBore.build/DerivedSources/i386" "-I/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/iBore.build/Release-iphonesimulator/iBore.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/ag/agieRY3gEWOAjkD2DehWNE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iBore_Prefix-gmajgfmjvzxaeuhgddyszloxqafi/iBore_Prefix.pch -c "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/Classes/DetailViewController.m" -o "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/iBore.build/Release-iphonesimulator/iBore.build/Objects-normal/i386/DetailViewController.o"0#
+
+CCompileC build/iBore.build/Release-iphonesimulator/iBore.build/Objects-normal/i386/DetailViewController.o /Users/peppe/Desktop/iBore/Classes/DetailViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/iBore.build/Release-iphonesimulator/iBore.build/Objects-normal/i386/DetailViewController.o /Users/peppe/Desktop/iBore_desktop/Classes/DetailViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/iBore.build/Release-iphonesimulator/iBore.build/Objects-normal/i386/ListViewController.o "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/Classes/ListViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s323190284.752801
+e323190285.209230
+r1
+xCompileC
+xbuild/iBore.build/Release-iphonesimulator/iBore.build/Objects-normal/i386/ListViewController.o
+x/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/Classes/ListViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/Classes/ListViewController.m: In function '-[ListViewController tableView:cellForRowAtIndexPath:]':
+o/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/Classes/ListViewController.m:117: warning: 'setFont:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h:211)
+lSLF07#2@85"Compile /Users/peppe/Dropbox/Tirocinio/My Projects/iBore/Classes/ListViewController.m323190284#323190285#0(436"/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/Classes/ListViewController.m: In function '-[ListViewController tableView:cellForRowAtIndexPath:]':/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/Classes/ListViewController.m:117: warning: 'setFont:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h:211)1(22@194"'setFont:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h:211)323190284#149#287#0(6@77"/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/Classes/ListViewController.m323025532#117#0#117#0#33"'*' is deprecated (declared at *)0(0#0#77"/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/Classes/ListViewController.m8614975776#2101"    cd "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/iBore.build/Release-iphonesimulator/iBore.build/iBore-generated-files.hmap" "-I/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/iBore.build/Release-iphonesimulator/iBore.build/iBore-own-target-headers.hmap" "-I/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/iBore.build/Release-iphonesimulator/iBore.build/iBore-all-target-headers.hmap" -iquote "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/iBore.build/Release-iphonesimulator/iBore.build/iBore-project-headers.hmap" "-F/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/Release-iphonesimulator" "-I/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/Release-iphonesimulator/include" "-I/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/iBore.build/Release-iphonesimulator/iBore.build/DerivedSources/i386" "-I/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/iBore.build/Release-iphonesimulator/iBore.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/ag/agieRY3gEWOAjkD2DehWNE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iBore_Prefix-gmajgfmjvzxaeuhgddyszloxqafi/iBore_Prefix.pch -c "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/Classes/ListViewController.m" -o "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/iBore.build/Release-iphonesimulator/iBore.build/Objects-normal/i386/ListViewController.o"0#
+
+CCompileC build/iBore.build/Release-iphonesimulator/iBore.build/Objects-normal/i386/ListViewController.o /Users/peppe/Desktop/iBore/Classes/ListViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/iBore.build/Release-iphonesimulator/iBore.build/Objects-normal/i386/ListViewController.o /Users/peppe/Desktop/iBore_desktop/Classes/ListViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/iBore.build/Release-iphonesimulator/iBore.build/Objects-normal/i386/NSObject+SBJSON.o "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/Classes/JSON/NSObject+SBJSON.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s323190285.209372
+e323190285.311293
+r1
+xCompileC
+xbuild/iBore.build/Release-iphonesimulator/iBore.build/Objects-normal/i386/NSObject+SBJSON.o
+x/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/Classes/JSON/NSObject+SBJSON.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@87"Compile /Users/peppe/Dropbox/Tirocinio/My Projects/iBore/Classes/JSON/NSObject+SBJSON.m323190285#323190285#0(0"0(0#0#79"/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/Classes/JSON/NSObject+SBJSON.m8616247808#2100"    cd "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/iBore.build/Release-iphonesimulator/iBore.build/iBore-generated-files.hmap" "-I/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/iBore.build/Release-iphonesimulator/iBore.build/iBore-own-target-headers.hmap" "-I/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/iBore.build/Release-iphonesimulator/iBore.build/iBore-all-target-headers.hmap" -iquote "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/iBore.build/Release-iphonesimulator/iBore.build/iBore-project-headers.hmap" "-F/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/Release-iphonesimulator" "-I/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/Release-iphonesimulator/include" "-I/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/iBore.build/Release-iphonesimulator/iBore.build/DerivedSources/i386" "-I/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/iBore.build/Release-iphonesimulator/iBore.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/ag/agieRY3gEWOAjkD2DehWNE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iBore_Prefix-gmajgfmjvzxaeuhgddyszloxqafi/iBore_Prefix.pch -c "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/Classes/JSON/NSObject+SBJSON.m" -o "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/iBore.build/Release-iphonesimulator/iBore.build/Objects-normal/i386/NSObject+SBJSON.o"0#
+
+CCompileC build/iBore.build/Release-iphonesimulator/iBore.build/Objects-normal/i386/NSObject+SBJSON.o /Users/peppe/Desktop/iBore/Classes/JSON/NSObject+SBJSON.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/iBore.build/Release-iphonesimulator/iBore.build/Objects-normal/i386/NSObject+SBJSON.o /Users/peppe/Desktop/iBore_desktop/Classes/JSON/NSObject+SBJSON.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/iBore.build/Release-iphonesimulator/iBore.build/Objects-normal/i386/NSString+SBJSON.o "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/Classes/JSON/NSString+SBJSON.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s323190285.311454
+e323190285.441376
+r1
+xCompileC
+xbuild/iBore.build/Release-iphonesimulator/iBore.build/Objects-normal/i386/NSString+SBJSON.o
+x/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/Classes/JSON/NSString+SBJSON.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@87"Compile /Users/peppe/Dropbox/Tirocinio/My Projects/iBore/Classes/JSON/NSString+SBJSON.m323190285#323190285#0(0"0(0#0#79"/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/Classes/JSON/NSString+SBJSON.m8615521056#2100"    cd "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/iBore.build/Release-iphonesimulator/iBore.build/iBore-generated-files.hmap" "-I/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/iBore.build/Release-iphonesimulator/iBore.build/iBore-own-target-headers.hmap" "-I/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/iBore.build/Release-iphonesimulator/iBore.build/iBore-all-target-headers.hmap" -iquote "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/iBore.build/Release-iphonesimulator/iBore.build/iBore-project-headers.hmap" "-F/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/Release-iphonesimulator" "-I/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/Release-iphonesimulator/include" "-I/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/iBore.build/Release-iphonesimulator/iBore.build/DerivedSources/i386" "-I/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/iBore.build/Release-iphonesimulator/iBore.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/ag/agieRY3gEWOAjkD2DehWNE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iBore_Prefix-gmajgfmjvzxaeuhgddyszloxqafi/iBore_Prefix.pch -c "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/Classes/JSON/NSString+SBJSON.m" -o "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/iBore.build/Release-iphonesimulator/iBore.build/Objects-normal/i386/NSString+SBJSON.o"0#
+
+CCompileC build/iBore.build/Release-iphonesimulator/iBore.build/Objects-normal/i386/NSString+SBJSON.o /Users/peppe/Desktop/iBore/Classes/JSON/NSString+SBJSON.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/iBore.build/Release-iphonesimulator/iBore.build/Objects-normal/i386/NSString+SBJSON.o /Users/peppe/Desktop/iBore_desktop/Classes/JSON/NSString+SBJSON.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/iBore.build/Release-iphonesimulator/iBore.build/Objects-normal/i386/RootViewController.o "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/Classes/RootViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s323190283.829590
+e323190283.992433
+r1
+xCompileC
+xbuild/iBore.build/Release-iphonesimulator/iBore.build/Objects-normal/i386/RootViewController.o
+x/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/Classes/RootViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@85"Compile /Users/peppe/Dropbox/Tirocinio/My Projects/iBore/Classes/RootViewController.m323190283#323190283#0(0"0(0#0#77"/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/Classes/RootViewController.m8616504288#2101"    cd "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/iBore.build/Release-iphonesimulator/iBore.build/iBore-generated-files.hmap" "-I/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/iBore.build/Release-iphonesimulator/iBore.build/iBore-own-target-headers.hmap" "-I/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/iBore.build/Release-iphonesimulator/iBore.build/iBore-all-target-headers.hmap" -iquote "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/iBore.build/Release-iphonesimulator/iBore.build/iBore-project-headers.hmap" "-F/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/Release-iphonesimulator" "-I/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/Release-iphonesimulator/include" "-I/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/iBore.build/Release-iphonesimulator/iBore.build/DerivedSources/i386" "-I/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/iBore.build/Release-iphonesimulator/iBore.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/ag/agieRY3gEWOAjkD2DehWNE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iBore_Prefix-gmajgfmjvzxaeuhgddyszloxqafi/iBore_Prefix.pch -c "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/Classes/RootViewController.m" -o "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/iBore.build/Release-iphonesimulator/iBore.build/Objects-normal/i386/RootViewController.o"0#
+
+CCompileC build/iBore.build/Release-iphonesimulator/iBore.build/Objects-normal/i386/RootViewController.o /Users/peppe/Desktop/iBore/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/iBore.build/Release-iphonesimulator/iBore.build/Objects-normal/i386/RootViewController.o /Users/peppe/Desktop/iBore_desktop/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/iBore.build/Release-iphonesimulator/iBore.build/Objects-normal/i386/SBJsonBase.o "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/Classes/JSON/SBJsonBase.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s323190285.441475
+e323190285.619789
+r1
+xCompileC
+xbuild/iBore.build/Release-iphonesimulator/iBore.build/Objects-normal/i386/SBJsonBase.o
+x/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/Classes/JSON/SBJsonBase.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@82"Compile /Users/peppe/Dropbox/Tirocinio/My Projects/iBore/Classes/JSON/SBJsonBase.m323190285#323190285#0(0"0(0#0#74"/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/Classes/JSON/SBJsonBase.m8612114144#2090"    cd "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/iBore.build/Release-iphonesimulator/iBore.build/iBore-generated-files.hmap" "-I/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/iBore.build/Release-iphonesimulator/iBore.build/iBore-own-target-headers.hmap" "-I/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/iBore.build/Release-iphonesimulator/iBore.build/iBore-all-target-headers.hmap" -iquote "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/iBore.build/Release-iphonesimulator/iBore.build/iBore-project-headers.hmap" "-F/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/Release-iphonesimulator" "-I/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/Release-iphonesimulator/include" "-I/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/iBore.build/Release-iphonesimulator/iBore.build/DerivedSources/i386" "-I/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/iBore.build/Release-iphonesimulator/iBore.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/ag/agieRY3gEWOAjkD2DehWNE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iBore_Prefix-gmajgfmjvzxaeuhgddyszloxqafi/iBore_Prefix.pch -c "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/Classes/JSON/SBJsonBase.m" -o "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/iBore.build/Release-iphonesimulator/iBore.build/Objects-normal/i386/SBJsonBase.o"0#
+
+CCompileC build/iBore.build/Release-iphonesimulator/iBore.build/Objects-normal/i386/SBJsonBase.o /Users/peppe/Desktop/iBore/Classes/JSON/SBJsonBase.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/iBore.build/Release-iphonesimulator/iBore.build/Objects-normal/i386/SBJsonBase.o /Users/peppe/Desktop/iBore_desktop/Classes/JSON/SBJsonBase.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/iBore.build/Release-iphonesimulator/iBore.build/Objects-normal/i386/SBJsonParser.o "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/Classes/JSON/SBJsonParser.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s323190285.619931
+e323190286.073221
+r1
+xCompileC
+xbuild/iBore.build/Release-iphonesimulator/iBore.build/Objects-normal/i386/SBJsonParser.o
+x/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/Classes/JSON/SBJsonParser.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@84"Compile /Users/peppe/Dropbox/Tirocinio/My Projects/iBore/Classes/JSON/SBJsonParser.m323190285#323190286#0(0"0(0#0#76"/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/Classes/JSON/SBJsonParser.m8614302080#2094"    cd "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/iBore.build/Release-iphonesimulator/iBore.build/iBore-generated-files.hmap" "-I/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/iBore.build/Release-iphonesimulator/iBore.build/iBore-own-target-headers.hmap" "-I/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/iBore.build/Release-iphonesimulator/iBore.build/iBore-all-target-headers.hmap" -iquote "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/iBore.build/Release-iphonesimulator/iBore.build/iBore-project-headers.hmap" "-F/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/Release-iphonesimulator" "-I/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/Release-iphonesimulator/include" "-I/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/iBore.build/Release-iphonesimulator/iBore.build/DerivedSources/i386" "-I/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/iBore.build/Release-iphonesimulator/iBore.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/ag/agieRY3gEWOAjkD2DehWNE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iBore_Prefix-gmajgfmjvzxaeuhgddyszloxqafi/iBore_Prefix.pch -c "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/Classes/JSON/SBJsonParser.m" -o "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/iBore.build/Release-iphonesimulator/iBore.build/Objects-normal/i386/SBJsonParser.o"0#
+
+CCompileC build/iBore.build/Release-iphonesimulator/iBore.build/Objects-normal/i386/SBJsonParser.o /Users/peppe/Desktop/iBore/Classes/JSON/SBJsonParser.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/iBore.build/Release-iphonesimulator/iBore.build/Objects-normal/i386/SBJsonParser.o /Users/peppe/Desktop/iBore_desktop/Classes/JSON/SBJsonParser.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/iBore.build/Release-iphonesimulator/iBore.build/Objects-normal/i386/SBJsonWriter.o "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/Classes/JSON/SBJsonWriter.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s323190286.073364
+e323190286.499538
+r1
+xCompileC
+xbuild/iBore.build/Release-iphonesimulator/iBore.build/Objects-normal/i386/SBJsonWriter.o
+x/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/Classes/JSON/SBJsonWriter.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@84"Compile /Users/peppe/Dropbox/Tirocinio/My Projects/iBore/Classes/JSON/SBJsonWriter.m323190286#323190286#0(0"0(0#0#76"/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/Classes/JSON/SBJsonWriter.m8616583840#2094"    cd "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/iBore.build/Release-iphonesimulator/iBore.build/iBore-generated-files.hmap" "-I/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/iBore.build/Release-iphonesimulator/iBore.build/iBore-own-target-headers.hmap" "-I/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/iBore.build/Release-iphonesimulator/iBore.build/iBore-all-target-headers.hmap" -iquote "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/iBore.build/Release-iphonesimulator/iBore.build/iBore-project-headers.hmap" "-F/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/Release-iphonesimulator" "-I/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/Release-iphonesimulator/include" "-I/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/iBore.build/Release-iphonesimulator/iBore.build/DerivedSources/i386" "-I/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/iBore.build/Release-iphonesimulator/iBore.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/ag/agieRY3gEWOAjkD2DehWNE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iBore_Prefix-gmajgfmjvzxaeuhgddyszloxqafi/iBore_Prefix.pch -c "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/Classes/JSON/SBJsonWriter.m" -o "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/iBore.build/Release-iphonesimulator/iBore.build/Objects-normal/i386/SBJsonWriter.o"0#
+
+CCompileC build/iBore.build/Release-iphonesimulator/iBore.build/Objects-normal/i386/SBJsonWriter.o /Users/peppe/Desktop/iBore/Classes/JSON/SBJsonWriter.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/iBore.build/Release-iphonesimulator/iBore.build/Objects-normal/i386/SBJsonWriter.o /Users/peppe/Desktop/iBore_desktop/Classes/JSON/SBJsonWriter.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/iBore.build/Release-iphonesimulator/iBore.build/Objects-normal/i386/TypeStructure.o /Users/peppe/Desktop/iBore_desktop/Classes/TypeStructure.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/iBore.build/Release-iphonesimulator/iBore.build/Objects-normal/i386/iBoreAppDelegate.o "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/Classes/iBoreAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s323190283.475942
+e323190283.829406
+r1
+xCompileC
+xbuild/iBore.build/Release-iphonesimulator/iBore.build/Objects-normal/i386/iBoreAppDelegate.o
+x/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/Classes/iBoreAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@83"Compile /Users/peppe/Dropbox/Tirocinio/My Projects/iBore/Classes/iBoreAppDelegate.m323190283#323190283#0(0"0(0#0#75"/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/Classes/iBoreAppDelegate.m8616326688#2097"    cd "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/iBore.build/Release-iphonesimulator/iBore.build/iBore-generated-files.hmap" "-I/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/iBore.build/Release-iphonesimulator/iBore.build/iBore-own-target-headers.hmap" "-I/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/iBore.build/Release-iphonesimulator/iBore.build/iBore-all-target-headers.hmap" -iquote "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/iBore.build/Release-iphonesimulator/iBore.build/iBore-project-headers.hmap" "-F/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/Release-iphonesimulator" "-I/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/Release-iphonesimulator/include" "-I/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/iBore.build/Release-iphonesimulator/iBore.build/DerivedSources/i386" "-I/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/iBore.build/Release-iphonesimulator/iBore.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/ag/agieRY3gEWOAjkD2DehWNE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iBore_Prefix-gmajgfmjvzxaeuhgddyszloxqafi/iBore_Prefix.pch -c "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/Classes/iBoreAppDelegate.m" -o "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/iBore.build/Release-iphonesimulator/iBore.build/Objects-normal/i386/iBoreAppDelegate.o"0#
+
+CCompileC build/iBore.build/Release-iphonesimulator/iBore.build/Objects-normal/i386/iBoreAppDelegate.o /Users/peppe/Desktop/iBore/Classes/iBoreAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/iBore.build/Release-iphonesimulator/iBore.build/Objects-normal/i386/iBoreAppDelegate.o /Users/peppe/Desktop/iBore_desktop/Classes/iBoreAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/iBore.build/Release-iphonesimulator/iBore.build/Objects-normal/i386/iBoreModel.o "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/Classes/iBoreModel.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s323190286.499784
+e323190286.782846
+r1
+xCompileC
+xbuild/iBore.build/Release-iphonesimulator/iBore.build/Objects-normal/i386/iBoreModel.o
+x/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/Classes/iBoreModel.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/peppe/Dropbox/Tirocinio/My Projects/iBore/Classes/iBoreModel.m323190286#323190286#0(0"0(0#0#69"/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/Classes/iBoreModel.m8614620448#2085"    cd "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/iBore.build/Release-iphonesimulator/iBore.build/iBore-generated-files.hmap" "-I/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/iBore.build/Release-iphonesimulator/iBore.build/iBore-own-target-headers.hmap" "-I/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/iBore.build/Release-iphonesimulator/iBore.build/iBore-all-target-headers.hmap" -iquote "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/iBore.build/Release-iphonesimulator/iBore.build/iBore-project-headers.hmap" "-F/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/Release-iphonesimulator" "-I/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/Release-iphonesimulator/include" "-I/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/iBore.build/Release-iphonesimulator/iBore.build/DerivedSources/i386" "-I/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/iBore.build/Release-iphonesimulator/iBore.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/ag/agieRY3gEWOAjkD2DehWNE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iBore_Prefix-gmajgfmjvzxaeuhgddyszloxqafi/iBore_Prefix.pch -c "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/Classes/iBoreModel.m" -o "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/iBore.build/Release-iphonesimulator/iBore.build/Objects-normal/i386/iBoreModel.o"0#
+
+CCompileC build/iBore.build/Release-iphonesimulator/iBore.build/Objects-normal/i386/iBoreModel.o /Users/peppe/Desktop/iBore/Classes/iBoreModel.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/iBore.build/Release-iphonesimulator/iBore.build/Objects-normal/i386/iBoreModel.o /Users/peppe/Desktop/iBore_desktop/Classes/iBoreModel.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/iBore.build/Release-iphonesimulator/iBore.build/Objects-normal/i386/main.o "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s323190283.154809
+e323190283.475802
+r1
+xCompileC
+xbuild/iBore.build/Release-iphonesimulator/iBore.build/Objects-normal/i386/main.o
+x/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@63"Compile /Users/peppe/Dropbox/Tirocinio/My Projects/iBore/main.m323190283#323190283#0(0"0(0#0#55"/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/main.m8599627136#2065"    cd "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/iBore.build/Release-iphonesimulator/iBore.build/iBore-generated-files.hmap" "-I/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/iBore.build/Release-iphonesimulator/iBore.build/iBore-own-target-headers.hmap" "-I/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/iBore.build/Release-iphonesimulator/iBore.build/iBore-all-target-headers.hmap" -iquote "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/iBore.build/Release-iphonesimulator/iBore.build/iBore-project-headers.hmap" "-F/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/Release-iphonesimulator" "-I/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/Release-iphonesimulator/include" "-I/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/iBore.build/Release-iphonesimulator/iBore.build/DerivedSources/i386" "-I/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/iBore.build/Release-iphonesimulator/iBore.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/ag/agieRY3gEWOAjkD2DehWNE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iBore_Prefix-gmajgfmjvzxaeuhgddyszloxqafi/iBore_Prefix.pch -c "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/main.m" -o "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/iBore.build/Release-iphonesimulator/iBore.build/Objects-normal/i386/main.o"0#
+
+CCompileC build/iBore.build/Release-iphonesimulator/iBore.build/Objects-normal/i386/main.o /Users/peppe/Desktop/iBore/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/iBore.build/Release-iphonesimulator/iBore.build/Objects-normal/i386/main.o /Users/peppe/Desktop/iBore_desktop/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileXIB "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/DetailViewController.xib"
+s323190279.744422
+e323190280.657606
+r1
+xCompileXIB
+x/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/DetailViewController.xib
+lSLF07#2@35"CompileXIB DetailViewController.xib323190279#323190280#0(0"0(0#0#73"/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/DetailViewController.xib8619078528#626"    cd "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/Release-iphonesimulator/iBore.app/DetailViewController.nib" "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/DetailViewController.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/ListViewController.xib"
+s323190280.657735
+e323190281.354248
+r1
+xCompileXIB
+x/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/ListViewController.xib
+lSLF07#2@33"CompileXIB ListViewController.xib323190280#323190281#0(0"0(0#0#71"/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/ListViewController.xib8602135424#622"    cd "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/Release-iphonesimulator/iBore.app/ListViewController.nib" "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/ListViewController.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/MainWindow.xib"
+s323190277.544871
+e323190278.514782
+r1
+xCompileXIB
+x/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib323190277#323190278#0(0"0(0#0#63"/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/MainWindow.xib8611911040#606"    cd "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/Release-iphonesimulator/iBore.app/MainWindow.nib" "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/MainWindow.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/RootViewController.xib"
+s323190278.514920
+e323190279.743583
+r1
+xCompileXIB
+x/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/RootViewController.xib
+lSLF07#2@33"CompileXIB RootViewController.xib323190278#323190279#0(0"0(0#0#71"/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/RootViewController.xib8619067200#622"    cd "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/Release-iphonesimulator/iBore.app/RootViewController.nib" "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/RootViewController.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/peppe/Desktop/iBore/CustomCell.xib
+r0
+
+CCompileXIB /Users/peppe/Desktop/iBore/DetailViewController.xib
+r0
+
+CCompileXIB /Users/peppe/Desktop/iBore/ListViewController.xib
+r0
+
+CCompileXIB /Users/peppe/Desktop/iBore/MainWindow.xib
+r0
+
+CCompileXIB /Users/peppe/Desktop/iBore/RootViewController.xib
+r0
+
+CCompileXIB /Users/peppe/Desktop/iBore_desktop/CustomCell.xib
+r0
+
+CCompileXIB /Users/peppe/Desktop/iBore_desktop/DetailViewController.xib
+r0
+
+CCompileXIB /Users/peppe/Desktop/iBore_desktop/ListViewController.xib
+r0
+
+CCompileXIB /Users/peppe/Desktop/iBore_desktop/MainWindow.xib
+r0
+
+CCompileXIB /Users/peppe/Desktop/iBore_desktop/RootViewController.xib
+r0
+
+CCpResource build/Release-iphonesimulator/iBore.app/bg_horizontal.png bg_horizontal.png
+r0
+
+CCpResource build/Release-iphonesimulator/iBore.app/bg_vertical.png bg_vertical.png
+r0
+
+CCpResource build/Release-iphonesimulator/iBore.app/bore.png bore.png
+s323190281.355817
+e323190281.409015
+r1
+xCpResource
+xbuild/Release-iphonesimulator/iBore.app/bore.png
+xbore.png
+lSLF07#2@13"Copy bore.png323190281#323190281#0(0"0(0#0#57"/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/bore.png8616459456#523"    cd "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/bore.png" "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/Release-iphonesimulator/iBore.app"0#
+
+CCpResource build/Release-iphonesimulator/iBore.app/boreSfondo.png boreSfondo.png
+s323190281.368061
+e323190281.414020
+r1
+xCpResource
+xbuild/Release-iphonesimulator/iBore.app/boreSfondo.png
+xboreSfondo.png
+lSLF07#2@19"Copy boreSfondo.png323190281#323190281#0(0"0(0#0#63"/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/boreSfondo.png8615824096#529"    cd "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/boreSfondo.png" "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/Release-iphonesimulator/iBore.app"0#
+
+CCpResource build/Release-iphonesimulator/iBore.app/borearea.png borearea.png
+s323190281.354421
+e323190281.392016
+r1
+xCpResource
+xbuild/Release-iphonesimulator/iBore.app/borearea.png
+xborearea.png
+lSLF07#2@17"Copy borearea.png323190281#323190281#0(0"0(0#0#61"/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/borearea.png8618819232#527"    cd "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/borearea.png" "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/Release-iphonesimulator/iBore.app"0#
+
+CCpResource build/Release-iphonesimulator/iBore.app/document-60.png document-60.png
+r0
+
+CCpResource build/Release-iphonesimulator/iBore.app/document-75.png document-75.png
+r0
+
+CCpResource build/Release-iphonesimulator/iBore.app/ico_allegato_20x20.png ico_allegato_20x20.png
+r0
+
+CCpResource build/Release-iphonesimulator/iBore.app/likeit.png likeit.png
+r0
+
+CCpResource build/Release-iphonesimulator/iBore.app/logo_ibore.png logo_ibore.png
+r0
+
+CCpResource build/Release-iphonesimulator/iBore.app/unlikeit.png unlikeit.png
+r0
+
+CGenerateDSYMFile "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/Release-iphonesimulator/iBore.app.dSYM" "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/Release-iphonesimulator/iBore.app/iBore"
+s323190286.840436
+e323190286.932658
+r1
+xGenerateDSYMFile
+x/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/Release-iphonesimulator/iBore.app.dSYM
+x/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/Release-iphonesimulator/iBore.app/iBore
+lSLF07#2@107"GenerateDSYMFile build/Release-iphonesimulator/iBore.app.dSYM build/Release-iphonesimulator/iBore.app/iBore323190286#323190286#0(0"0(0#0#94"/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/Release-iphonesimulator/iBore.app/iBore8615819808#417"    cd "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/Release-iphonesimulator/iBore.app/iBore" -o "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/Release-iphonesimulator/iBore.app.dSYM"0#
+
+CGenerateDSYMFile /Users/peppe/Desktop/iBore/build/Release-iphonesimulator/iBore.app.dSYM /Users/peppe/Desktop/iBore/build/Release-iphonesimulator/iBore.app/iBore
+r0
+
+CGenerateDSYMFile /Users/peppe/Desktop/iBore_desktop/build/Release-iphonesimulator/iBore.app.dSYM /Users/peppe/Desktop/iBore_desktop/build/Release-iphonesimulator/iBore.app/iBore
+r0
+
+CLd "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/Release-iphonesimulator/iBore.app/iBore" normal i386
+s323190286.782973
+e323190286.840348
+r1
+xLd
+x/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/Release-iphonesimulator/iBore.app/iBore
+xnormal
+xi386
+lSLF07#2@99"Link /Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/Release-iphonesimulator/iBore.app/iBore323190286#323190286#0(0"0(0#0#0"8616652768#958"    cd "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk "-L/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/Release-iphonesimulator" "-F/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/Release-iphonesimulator" -filelist "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/iBore.build/Release-iphonesimulator/iBore.build/Objects-normal/i386/iBore.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/Release-iphonesimulator/iBore.app/iBore"0#
+
+CLd /Users/peppe/Desktop/iBore/build/Release-iphonesimulator/iBore.app/iBore normal i386
+r0
+
+CLd /Users/peppe/Desktop/iBore_desktop/build/Release-iphonesimulator/iBore.app/iBore normal i386
+r0
+
+CProcessInfoPlistFile "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/Release-iphonesimulator/iBore.app/Info.plist" iBore-Info.plist
+s323190277.344025
+e323190277.544743
+r1
+xProcessInfoPlistFile
+x/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/Release-iphonesimulator/iBore.app/Info.plist
+xiBore-Info.plist
+lSLF07#2@24"Process iBore-Info.plist323190277#323190277#0(0"0(0#0#65"/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/iBore-Info.plist8614025440#513"    cd "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility iBore-Info.plist -genpkginfo "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/Release-iphonesimulator/iBore.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/Release-iphonesimulator/iBore.app/Info.plist"0#
+
+CProcessInfoPlistFile /Users/peppe/Desktop/iBore/build/Release-iphonesimulator/iBore.app/Info.plist iBore-Info.plist
+r0
+
+CProcessInfoPlistFile /Users/peppe/Desktop/iBore_desktop/build/Release-iphonesimulator/iBore.app/Info.plist iBore-Info.plist
+r0
+
+CProcessPCH /var/folders/ag/agieRY3gEWOAjkD2DehWNE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iBore_Prefix-gdglyyvaerjqorcmkqqsuciwlfir/iBore_Prefix.pch.gch iBore_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/ag/agieRY3gEWOAjkD2DehWNE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iBore_Prefix-gmajgfmjvzxaeuhgddyszloxqafi/iBore_Prefix.pch.gch iBore_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s323190281.414183
+e323190283.154391
+r1
+xProcessPCH
+x/var/folders/ag/agieRY3gEWOAjkD2DehWNE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iBore_Prefix-gmajgfmjvzxaeuhgddyszloxqafi/iBore_Prefix.pch.gch
+xiBore_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@27"Precompile iBore_Prefix.pch323190281#323190283#0(0"0(0#0#65"/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/iBore_Prefix.pch8612851680#1945"    cd "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/iBore.build/Release-iphonesimulator/iBore.build/iBore-generated-files.hmap" "-I/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/iBore.build/Release-iphonesimulator/iBore.build/iBore-own-target-headers.hmap" "-I/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/iBore.build/Release-iphonesimulator/iBore.build/iBore-all-target-headers.hmap" -iquote "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/iBore.build/Release-iphonesimulator/iBore.build/iBore-project-headers.hmap" "-F/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/Release-iphonesimulator" "-I/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/Release-iphonesimulator/include" "-I/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/iBore.build/Release-iphonesimulator/iBore.build/DerivedSources/i386" "-I/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/iBore.build/Release-iphonesimulator/iBore.build/DerivedSources" -DNS_BLOCK_ASSERTIONS=1 -c "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/iBore_Prefix.pch" -o /var/folders/ag/agieRY3gEWOAjkD2DehWNE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iBore_Prefix-gmajgfmjvzxaeuhgddyszloxqafi/iBore_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/ky/kyqebGA2EAuE7lFhTRnf+U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iBore_Prefix-hgkmetmxnyonvygryqqkbytctzuo/iBore_Prefix.pch.gch iBore_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CTouch "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/Release-iphonesimulator/iBore.app"
+s323190286.932791
+e323190286.955071
+r1
+xTouch
+x/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/Release-iphonesimulator/iBore.app
+lSLF07#2@94"Touch /Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/Release-iphonesimulator/iBore.app323190286#323190286#0(0"0(0#0#0"8614621504#302"    cd "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/Release-iphonesimulator/iBore.app"0#
+
+CTouch /Users/peppe/Desktop/iBore/build/Release-iphonesimulator/iBore.app
+r0
+
+CTouch /Users/peppe/Desktop/iBore_desktop/build/Release-iphonesimulator/iBore.app
+r0
+

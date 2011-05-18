@@ -1,0 +1,528 @@
+TiBore
+v7
+r1
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk
+c000000004CC7DC9E0000000000000110
+t1288166558
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+c000000004CB3DFCF00000000000001E5
+t1286856655
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC10EF500000000003532B0
+t1287720693
+s3486384
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC10F4700000000003E1F20
+t1287720775
+s4071200
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC10F1C0000000000001466
+t1287720732
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC11AE60000000000000AA1
+t1287723750
+s2721
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC11B750000000000C769F0
+t1287723893
+s13068784
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/Availability.h
+c000000004CB3FBB80000000000001ADD
+t1286863800
+s6877
+
+N/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/Classes/DetailViewController.h
+c000000004D933AB60000000000000384
+t1301494454
+s900
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+i"iBoreModel.h"
+
+N/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/Classes/DetailViewController.m
+c000000004D9306420000000000001AA1
+t1301481026
+s6817
+i"DetailViewController.h"
+i"ListViewController.h"
+i"iBoreAppDelegate.h"
+i"JSON/JSON.h"
+
+N/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/Classes/JSON/JSON.h
+c000000004D2B12CC0000000000000AC5
+t1294668492
+s2757
+i"SBJsonParser.h"
+i"SBJsonWriter.h"
+i"NSObject+SBJSON.h"
+i"NSString+SBJSON.h"
+i<JSON/SBJsonParser.h>
+i<JSON/SBJsonWriter.h>
+i<JSON/NSObject+SBJSON.h>
+i<JSON/NSString+SBJSON.h>
+
+N/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/Classes/JSON/NSObject+SBJSON.h
+c000000004D2B12CC000000000000085F
+t1294668492
+s2143
+i<Foundation/Foundation.h>
+
+N/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/Classes/JSON/NSObject+SBJSON.m
+c000000004D2B12CC000000000000077D
+t1294668492
+s1917
+i"NSObject+SBJSON.h"
+i"SBJsonWriter.h"
+
+N/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/Classes/JSON/NSString+SBJSON.h
+c000000004D2B12CC00000000000007F0
+t1294668492
+s2032
+i<Foundation/Foundation.h>
+
+N/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/Classes/JSON/NSString+SBJSON.m
+c000000004D2B12CC000000000000075D
+t1294668492
+s1885
+i"NSString+SBJSON.h"
+i"SBJsonParser.h"
+
+N/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/Classes/JSON/SBJsonBase.h
+c000000004D2B12CC0000000000000B82
+t1294668492
+s2946
+i<Foundation/Foundation.h>
+
+N/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/Classes/JSON/SBJsonBase.m
+c000000004D2B12CC0000000000000AC1
+t1294668492
+s2753
+i"SBJsonBase.h"
+
+N/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/Classes/JSON/SBJsonParser.h
+c000000004D2B12CC0000000000000C8F
+t1294668492
+s3215
+i<Foundation/Foundation.h>
+i"SBJsonBase.h"
+
+N/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/Classes/JSON/SBJsonParser.m
+c000000004D2B12CC0000000000003B7A
+t1294668492
+s15226
+i"SBJsonParser.h"
+
+N/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/Classes/JSON/SBJsonWriter.h
+c000000004D2B12CC00000000000011D9
+t1294668492
+s4569
+i<Foundation/Foundation.h>
+i"SBJsonBase.h"
+
+N/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/Classes/JSON/SBJsonWriter.m
+c000000004D2B12CC000000000000206D
+t1294668492
+s8301
+i"SBJsonWriter.h"
+
+N/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/Classes/ListViewController.h
+c000000004D9065400000000000000242
+t1301308736
+s578
+i<UIKit/UIKit.h>
+i"iBoreModel.h"
+
+N/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/Classes/ListViewController.m
+c000000004D90C2FC0000000000001936
+t1301332732
+s6454
+i"ListViewController.h"
+i"JSON/JSON.h"
+i"iBoreAppDelegate.h"
+i"DetailViewController.h"
+
+N/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/Classes/RootViewController.h
+c000000004D90592E0000000000000140
+t1301305646
+s320
+i<UIKit/UIKit.h>
+i"iBoreModel.h"
+
+N/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/Classes/RootViewController.m
+c000000004D933AA200000000000007DA
+t1301494434
+s2010
+i"RootViewController.h"
+i"DetailViewController.h"
+
+N/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/Classes/iBoreAppDelegate.h
+c000000004D89E2D600000000000001C6
+t1300882134
+s454
+i<UIKit/UIKit.h>
+
+N/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/Classes/iBoreAppDelegate.m
+c000000004D89E2D60000000000000A98
+t1300882134
+s2712
+i"iBoreAppDelegate.h"
+i"RootViewController.h"
+
+N/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/Classes/iBoreModel.h
+c000000004D92E8770000000000000A65
+t1301473399
+s2661
+i<Foundation/Foundation.h>
+
+N/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/Classes/iBoreModel.m
+c000000004D92F87C00000000000014D7
+t1301477500
+s5335
+i"iBoreModel.h"
+i"JSON/JSON.h"
+
+N/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/DetailViewController.xib
+c000000004D93408D0000000000005141
+t1301495949
+s20801
+
+N/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/ListViewController.xib
+c000000004D89E58000000000000042B8
+t1300882816
+s17080
+
+N/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/MainWindow.xib
+c000000004D89E2D60000000000005FEC
+t1300882134
+s24556
+
+N/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/RootViewController.xib
+c000000004D89E3A50000000000003C93
+t1300882341
+s15507
+
+N/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/bore.png
+c000000004D92F7B70000000000002502
+t1301477303
+s9474
+
+N/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/boreSfondo.png
+c000000004D92FC5100000000000086F7
+t1301478481
+s34551
+
+N/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/borearea.png
+c000000004D8C73D600000000000008C0
+t1301050326
+s2240
+
+N/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/Debug-iphoneos/iBore.app
+t2
+s0
+
+N/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/Debug-iphoneos/iBore.app.dSYM
+t2
+s0
+
+N/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/Debug-iphoneos/iBore.app/DetailViewController.nib
+t2
+s0
+
+N/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/Debug-iphoneos/iBore.app/Info.plist
+t2
+s0
+
+N/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/Debug-iphoneos/iBore.app/ListViewController.nib
+t2
+s0
+
+N/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/Debug-iphoneos/iBore.app/MainWindow.nib
+t2
+s0
+
+N/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/Debug-iphoneos/iBore.app/PkgInfo
+t2
+s0
+
+N/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/Debug-iphoneos/iBore.app/ResourceRules.plist
+t2
+s0
+
+N/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/Debug-iphoneos/iBore.app/RootViewController.nib
+t2
+s0
+
+N/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/Debug-iphoneos/iBore.app/bore.png
+t2
+s0
+
+N/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/Debug-iphoneos/iBore.app/boreSfondo.png
+t2
+s0
+
+N/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/Debug-iphoneos/iBore.app/borearea.png
+t2
+s0
+
+N/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/Debug-iphoneos/iBore.app/iBore
+t2
+s0
+
+N/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/iBore.build/Debug-iphoneos/iBore.build/Objects-normal/armv6/DetailViewController.o
+t2
+s0
+
+N/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/iBore.build/Debug-iphoneos/iBore.build/Objects-normal/armv6/ListViewController.o
+t2
+s0
+
+N/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/iBore.build/Debug-iphoneos/iBore.build/Objects-normal/armv6/NSObject+SBJSON.o
+t2
+s0
+
+N/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/iBore.build/Debug-iphoneos/iBore.build/Objects-normal/armv6/NSString+SBJSON.o
+t2
+s0
+
+N/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/iBore.build/Debug-iphoneos/iBore.build/Objects-normal/armv6/RootViewController.o
+t2
+s0
+
+N/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/iBore.build/Debug-iphoneos/iBore.build/Objects-normal/armv6/SBJsonBase.o
+t2
+s0
+
+N/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/iBore.build/Debug-iphoneos/iBore.build/Objects-normal/armv6/SBJsonParser.o
+t2
+s0
+
+N/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/iBore.build/Debug-iphoneos/iBore.build/Objects-normal/armv6/SBJsonWriter.o
+t2
+s0
+
+N/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/iBore.build/Debug-iphoneos/iBore.build/Objects-normal/armv6/iBore
+t2
+s0
+
+N/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/iBore.build/Debug-iphoneos/iBore.build/Objects-normal/armv6/iBore.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/iBore.build/Debug-iphoneos/iBore.build/Objects-normal/armv6/iBoreAppDelegate.o
+t2
+s0
+
+N/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/iBore.build/Debug-iphoneos/iBore.build/Objects-normal/armv6/iBoreModel.o
+t2
+s0
+
+N/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/iBore.build/Debug-iphoneos/iBore.build/Objects-normal/armv6/main.o
+t2
+s0
+
+N/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/iBore.build/Debug-iphoneos/iBore.build/Objects-normal/armv7/DetailViewController.o
+t2
+s0
+
+N/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/iBore.build/Debug-iphoneos/iBore.build/Objects-normal/armv7/ListViewController.o
+t2
+s0
+
+N/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/iBore.build/Debug-iphoneos/iBore.build/Objects-normal/armv7/NSObject+SBJSON.o
+t2
+s0
+
+N/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/iBore.build/Debug-iphoneos/iBore.build/Objects-normal/armv7/NSString+SBJSON.o
+t2
+s0
+
+N/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/iBore.build/Debug-iphoneos/iBore.build/Objects-normal/armv7/RootViewController.o
+t2
+s0
+
+N/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/iBore.build/Debug-iphoneos/iBore.build/Objects-normal/armv7/SBJsonBase.o
+t2
+s0
+
+N/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/iBore.build/Debug-iphoneos/iBore.build/Objects-normal/armv7/SBJsonParser.o
+t2
+s0
+
+N/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/iBore.build/Debug-iphoneos/iBore.build/Objects-normal/armv7/SBJsonWriter.o
+t2
+s0
+
+N/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/iBore.build/Debug-iphoneos/iBore.build/Objects-normal/armv7/iBore
+t2
+s0
+
+N/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/iBore.build/Debug-iphoneos/iBore.build/Objects-normal/armv7/iBore.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/iBore.build/Debug-iphoneos/iBore.build/Objects-normal/armv7/iBoreAppDelegate.o
+t2
+s0
+
+N/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/iBore.build/Debug-iphoneos/iBore.build/Objects-normal/armv7/iBoreModel.o
+t2
+s0
+
+N/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/iBore.build/Debug-iphoneos/iBore.build/Objects-normal/armv7/main.o
+t2
+s0
+
+N/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/iBore_Prefix.pch
+c000000004D89E2D6000000000000013C
+t1300882134
+s316
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/main.m
+c000000004D89E2D60000000000000160
+t1300882134
+s352
+i<UIKit/UIKit.h>
+
+N/var/folders/ag/agieRY3gEWOAjkD2DehWNE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iBore_Prefix-ageodwdbcppavhcntvgfmdtexwye/iBore_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/ag/agieRY3gEWOAjkD2DehWNE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iBore_Prefix-cstubtmwclmamkbqcchmsthkzbev/iBore_Prefix.pch.gch
+t2
+s0
+
+NiBore-Info.plist
+c000000004D8C74670000000000000404
+t1301050471
+s1028
+
+CCompileC build/iBore.build/Debug-iphoneos/iBore.build/Objects-normal/armv6/DetailViewController.o "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/Classes/DetailViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/iBore.build/Debug-iphoneos/iBore.build/Objects-normal/armv6/ListViewController.o "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/Classes/ListViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/iBore.build/Debug-iphoneos/iBore.build/Objects-normal/armv6/NSObject+SBJSON.o "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/Classes/JSON/NSObject+SBJSON.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/iBore.build/Debug-iphoneos/iBore.build/Objects-normal/armv6/NSString+SBJSON.o "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/Classes/JSON/NSString+SBJSON.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/iBore.build/Debug-iphoneos/iBore.build/Objects-normal/armv6/RootViewController.o "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/Classes/RootViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/iBore.build/Debug-iphoneos/iBore.build/Objects-normal/armv6/SBJsonBase.o "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/Classes/JSON/SBJsonBase.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/iBore.build/Debug-iphoneos/iBore.build/Objects-normal/armv6/SBJsonParser.o "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/Classes/JSON/SBJsonParser.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/iBore.build/Debug-iphoneos/iBore.build/Objects-normal/armv6/SBJsonWriter.o "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/Classes/JSON/SBJsonWriter.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/iBore.build/Debug-iphoneos/iBore.build/Objects-normal/armv6/iBoreAppDelegate.o "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/Classes/iBoreAppDelegate.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/iBore.build/Debug-iphoneos/iBore.build/Objects-normal/armv6/iBoreModel.o "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/Classes/iBoreModel.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/iBore.build/Debug-iphoneos/iBore.build/Objects-normal/armv6/main.o "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/main.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/iBore.build/Debug-iphoneos/iBore.build/Objects-normal/armv7/DetailViewController.o "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/Classes/DetailViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/iBore.build/Debug-iphoneos/iBore.build/Objects-normal/armv7/ListViewController.o "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/Classes/ListViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/iBore.build/Debug-iphoneos/iBore.build/Objects-normal/armv7/NSObject+SBJSON.o "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/Classes/JSON/NSObject+SBJSON.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/iBore.build/Debug-iphoneos/iBore.build/Objects-normal/armv7/NSString+SBJSON.o "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/Classes/JSON/NSString+SBJSON.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/iBore.build/Debug-iphoneos/iBore.build/Objects-normal/armv7/RootViewController.o "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/Classes/RootViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/iBore.build/Debug-iphoneos/iBore.build/Objects-normal/armv7/SBJsonBase.o "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/Classes/JSON/SBJsonBase.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/iBore.build/Debug-iphoneos/iBore.build/Objects-normal/armv7/SBJsonParser.o "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/Classes/JSON/SBJsonParser.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/iBore.build/Debug-iphoneos/iBore.build/Objects-normal/armv7/SBJsonWriter.o "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/Classes/JSON/SBJsonWriter.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/iBore.build/Debug-iphoneos/iBore.build/Objects-normal/armv7/iBoreAppDelegate.o "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/Classes/iBoreAppDelegate.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/iBore.build/Debug-iphoneos/iBore.build/Objects-normal/armv7/iBoreModel.o "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/Classes/iBoreModel.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/iBore.build/Debug-iphoneos/iBore.build/Objects-normal/armv7/main.o "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/main.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileXIB "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/DetailViewController.xib"
+r0
+
+CCompileXIB "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/ListViewController.xib"
+r0
+
+CCompileXIB "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/MainWindow.xib"
+r0
+
+CCompileXIB "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/RootViewController.xib"
+r0
+
+CCopyPNGFile "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/Debug-iphoneos/iBore.app/bore.png" bore.png
+r0
+
+CCopyPNGFile "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/Debug-iphoneos/iBore.app/boreSfondo.png" boreSfondo.png
+r0
+
+CCopyPNGFile "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/Debug-iphoneos/iBore.app/borearea.png" borearea.png
+r0
+
+CCpResource build/Debug-iphoneos/iBore.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+r0
+
+CCreateUniversalBinary "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/Debug-iphoneos/iBore.app/iBore" normal "armv6 armv7"
+r0
+
+CGenerateDSYMFile "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/Debug-iphoneos/iBore.app.dSYM" "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/Debug-iphoneos/iBore.app/iBore"
+r0
+
+CLd "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/iBore.build/Debug-iphoneos/iBore.build/Objects-normal/armv6/iBore" normal armv6
+r0
+
+CLd "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/iBore.build/Debug-iphoneos/iBore.build/Objects-normal/armv7/iBore" normal armv7
+r0
+
+CProcessInfoPlistFile "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/Debug-iphoneos/iBore.app/Info.plist" iBore-Info.plist
+r0
+
+CProcessPCH /var/folders/ag/agieRY3gEWOAjkD2DehWNE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iBore_Prefix-ageodwdbcppavhcntvgfmdtexwye/iBore_Prefix.pch.gch iBore_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/ag/agieRY3gEWOAjkD2DehWNE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iBore_Prefix-cstubtmwclmamkbqcchmsthkzbev/iBore_Prefix.pch.gch iBore_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CTouch "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/Debug-iphoneos/iBore.app"
+r0
+

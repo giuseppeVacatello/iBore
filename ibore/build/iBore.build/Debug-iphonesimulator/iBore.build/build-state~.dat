@@ -1,0 +1,281 @@
+TiBore
+v7
+r0
+t322575348.088670
+cCheck dependencies
+cProcessInfoPlistFile "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/Debug-iphonesimulator/iBore.app/Info.plist" iBore-Info.plist
+cCompileXIB "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/MainWindow.xib"
+cCompileXIB "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/RootViewController.xib"
+cCpResource build/Debug-iphonesimulator/iBore.app/bore.png bore.png
+cProcessPCH /var/folders/ag/agieRY3gEWOAjkD2DehWNE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iBore_Prefix-bdvmuaholywwjngmeetykbrcdchr/iBore_Prefix.pch.gch iBore_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iBore.build/Debug-iphonesimulator/iBore.build/Objects-normal/i386/main.o "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iBore.build/Debug-iphonesimulator/iBore.build/Objects-normal/i386/iBoreAppDelegate.o "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/Classes/iBoreAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iBore.build/Debug-iphonesimulator/iBore.build/Objects-normal/i386/RootViewController.o "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/Classes/RootViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/Debug-iphonesimulator/iBore.app/iBore" normal i386
+cGenerateDSYMFile "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/Debug-iphonesimulator/iBore.app.dSYM" "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/Debug-iphonesimulator/iBore.app/iBore"
+cTouch "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/Debug-iphonesimulator/iBore.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/Availability.h
+c000000004CB3FA080000000000001ADD
+t1286863368
+s6877
+
+N/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/Classes/RootViewController.h
+c000000004D89E31200000000000000DD
+t1300882194
+s221
+i<UIKit/UIKit.h>
+
+N/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/Classes/RootViewController.m
+c000000004D89E34E000000000000064E
+t1300882254
+s1614
+i"RootViewController.h"
+
+N/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/Classes/iBoreAppDelegate.h
+c000000004D89E2D600000000000001C6
+t1300882134
+s454
+i<UIKit/UIKit.h>
+
+N/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/Classes/iBoreAppDelegate.m
+c000000004D89E2D60000000000000A98
+t1300882134
+s2712
+i"iBoreAppDelegate.h"
+i"RootViewController.h"
+
+N/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/MainWindow.xib
+c000000004D89E2D60000000000005FEC
+t1300882134
+s24556
+
+N/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/RootViewController.xib
+c000000004D89E3A50000000000003C93
+t1300882341
+s15507
+
+N/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/bore.png
+c000000004D89E43300000000000086F7
+t1300882483
+s34551
+
+N/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/Debug-iphonesimulator/iBore.app
+t1300882548
+s272
+
+N/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/Debug-iphonesimulator/iBore.app.dSYM
+t1300882547
+s102
+
+N/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/Debug-iphonesimulator/iBore.app/Info.plist
+t1300882532
+s583
+
+N/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/Debug-iphonesimulator/iBore.app/MainWindow.nib
+t1300882536
+s1507
+
+N/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/Debug-iphonesimulator/iBore.app/PkgInfo
+t1300882532
+s8
+
+N/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/Debug-iphonesimulator/iBore.app/RootViewController.nib
+t1300882540
+s797
+
+N/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/Debug-iphonesimulator/iBore.app/bore.png
+t1300882541
+s34551
+
+N/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/Debug-iphonesimulator/iBore.app/iBore
+t1300882547
+s17260
+
+N/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/iBore.build/Debug-iphonesimulator/iBore.build/Objects-normal/i386/RootViewController.o
+t1300882546
+s38380
+
+N/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/iBore.build/Debug-iphonesimulator/iBore.build/Objects-normal/i386/iBore.LinkFileList
+c000000004D89E464000000000000019A
+t1300882532
+s410
+
+N/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/iBore.build/Debug-iphonesimulator/iBore.build/Objects-normal/i386/iBoreAppDelegate.o
+t1300882546
+s52520
+
+N/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/iBore.build/Debug-iphonesimulator/iBore.build/Objects-normal/i386/main.o
+t1300882545
+s6324
+
+N/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/iBore_Prefix.pch
+c000000004D89E2D6000000000000013C
+t1300882134
+s316
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/main.m
+c000000004D89E2D60000000000000160
+t1300882134
+s352
+i<UIKit/UIKit.h>
+
+N/var/folders/ag/agieRY3gEWOAjkD2DehWNE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iBore_Prefix-bdvmuaholywwjngmeetykbrcdchr/iBore_Prefix.pch.gch
+t1300882545
+s15453392
+
+NiBore-Info.plist
+c000000004D89E2D6000000000000038D
+t1300882134
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies322575332#322575332#0(0"0(0#1#0"3343187568374212096#0"0#
+
+CCompileC build/iBore.build/Debug-iphonesimulator/iBore.build/Objects-normal/i386/RootViewController.o "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/Classes/RootViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s322575346.094395
+e322575346.545386
+r1
+xCompileC
+xbuild/iBore.build/Debug-iphonesimulator/iBore.build/Objects-normal/i386/RootViewController.o
+x/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/Classes/RootViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@85"Compile /Users/peppe/Dropbox/Tirocinio/My Projects/iBore/Classes/RootViewController.m322575346#322575346#0(0"0(0#0#77"/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/Classes/RootViewController.m8612971008#2042"    cd "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/iBore.build/Debug-iphonesimulator/iBore.build/iBore-generated-files.hmap" "-I/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/iBore.build/Debug-iphonesimulator/iBore.build/iBore-own-target-headers.hmap" "-I/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/iBore.build/Debug-iphonesimulator/iBore.build/iBore-all-target-headers.hmap" -iquote "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/iBore.build/Debug-iphonesimulator/iBore.build/iBore-project-headers.hmap" "-F/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/Debug-iphonesimulator" "-I/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/Debug-iphonesimulator/include" "-I/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/iBore.build/Debug-iphonesimulator/iBore.build/DerivedSources/i386" "-I/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/iBore.build/Debug-iphonesimulator/iBore.build/DerivedSources" -include /var/folders/ag/agieRY3gEWOAjkD2DehWNE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iBore_Prefix-bdvmuaholywwjngmeetykbrcdchr/iBore_Prefix.pch -c "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/Classes/RootViewController.m" -o "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/iBore.build/Debug-iphonesimulator/iBore.build/Objects-normal/i386/RootViewController.o"0#
+
+CCompileC build/iBore.build/Debug-iphonesimulator/iBore.build/Objects-normal/i386/iBoreAppDelegate.o "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/Classes/iBoreAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s322575345.857444
+e322575346.094200
+r1
+xCompileC
+xbuild/iBore.build/Debug-iphonesimulator/iBore.build/Objects-normal/i386/iBoreAppDelegate.o
+x/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/Classes/iBoreAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@83"Compile /Users/peppe/Dropbox/Tirocinio/My Projects/iBore/Classes/iBoreAppDelegate.m322575345#322575346#0(0"0(0#0#75"/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/Classes/iBoreAppDelegate.m8612422944#2038"    cd "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/iBore.build/Debug-iphonesimulator/iBore.build/iBore-generated-files.hmap" "-I/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/iBore.build/Debug-iphonesimulator/iBore.build/iBore-own-target-headers.hmap" "-I/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/iBore.build/Debug-iphonesimulator/iBore.build/iBore-all-target-headers.hmap" -iquote "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/iBore.build/Debug-iphonesimulator/iBore.build/iBore-project-headers.hmap" "-F/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/Debug-iphonesimulator" "-I/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/Debug-iphonesimulator/include" "-I/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/iBore.build/Debug-iphonesimulator/iBore.build/DerivedSources/i386" "-I/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/iBore.build/Debug-iphonesimulator/iBore.build/DerivedSources" -include /var/folders/ag/agieRY3gEWOAjkD2DehWNE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iBore_Prefix-bdvmuaholywwjngmeetykbrcdchr/iBore_Prefix.pch -c "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/Classes/iBoreAppDelegate.m" -o "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/iBore.build/Debug-iphonesimulator/iBore.build/Objects-normal/i386/iBoreAppDelegate.o"0#
+
+CCompileC build/iBore.build/Debug-iphonesimulator/iBore.build/Objects-normal/i386/main.o "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s322575345.529214
+e322575345.857240
+r1
+xCompileC
+xbuild/iBore.build/Debug-iphonesimulator/iBore.build/Objects-normal/i386/main.o
+x/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@63"Compile /Users/peppe/Dropbox/Tirocinio/My Projects/iBore/main.m322575345#322575345#0(0"0(0#0#55"/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/main.m8612686400#2006"    cd "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/iBore.build/Debug-iphonesimulator/iBore.build/iBore-generated-files.hmap" "-I/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/iBore.build/Debug-iphonesimulator/iBore.build/iBore-own-target-headers.hmap" "-I/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/iBore.build/Debug-iphonesimulator/iBore.build/iBore-all-target-headers.hmap" -iquote "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/iBore.build/Debug-iphonesimulator/iBore.build/iBore-project-headers.hmap" "-F/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/Debug-iphonesimulator" "-I/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/Debug-iphonesimulator/include" "-I/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/iBore.build/Debug-iphonesimulator/iBore.build/DerivedSources/i386" "-I/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/iBore.build/Debug-iphonesimulator/iBore.build/DerivedSources" -include /var/folders/ag/agieRY3gEWOAjkD2DehWNE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iBore_Prefix-bdvmuaholywwjngmeetykbrcdchr/iBore_Prefix.pch -c "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/main.m" -o "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/iBore.build/Debug-iphonesimulator/iBore.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/MainWindow.xib"
+s322575332.571908
+e322575336.559900
+r1
+xCompileXIB
+x/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib322575332#322575336#0(0"0(0#0#63"/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/MainWindow.xib8604020512#604"    cd "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/Debug-iphonesimulator/iBore.app/MainWindow.nib" "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/MainWindow.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/RootViewController.xib"
+s322575336.560234
+e322575340.575606
+r1
+xCompileXIB
+x/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/RootViewController.xib
+lSLF07#2@33"CompileXIB RootViewController.xib322575336#322575340#0(0"0(0#0#71"/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/RootViewController.xib8613110208#620"    cd "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/Debug-iphonesimulator/iBore.app/RootViewController.nib" "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/RootViewController.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCpResource build/Debug-iphonesimulator/iBore.app/bore.png bore.png
+s322575340.575781
+e322575341.043101
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/iBore.app/bore.png
+xbore.png
+lSLF07#2@13"Copy bore.png322575340#322575341#0(0"0(0#0#57"/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/bore.png8612339072#500"    cd "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/bore.png" "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/Debug-iphonesimulator/iBore.app"0#
+
+CGenerateDSYMFile "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/Debug-iphonesimulator/iBore.app.dSYM" "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/Debug-iphonesimulator/iBore.app/iBore"
+s322575347.303277
+e322575347.864203
+r1
+xGenerateDSYMFile
+x/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/Debug-iphonesimulator/iBore.app.dSYM
+x/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/Debug-iphonesimulator/iBore.app/iBore
+lSLF07#2@103"GenerateDSYMFile build/Debug-iphonesimulator/iBore.app.dSYM build/Debug-iphonesimulator/iBore.app/iBore322575347#322575347#0(0"0(0#0#92"/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/Debug-iphonesimulator/iBore.app/iBore8612741952#413"    cd "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/Debug-iphonesimulator/iBore.app/iBore" -o "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/Debug-iphonesimulator/iBore.app.dSYM"0#
+
+CLd "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/Debug-iphonesimulator/iBore.app/iBore" normal i386
+s322575346.545501
+e322575347.303038
+r1
+xLd
+x/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/Debug-iphonesimulator/iBore.app/iBore
+xnormal
+xi386
+lSLF07#2@97"Link /Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/Debug-iphonesimulator/iBore.app/iBore322575346#322575347#0(0"0(0#0#0"8613189216#950"    cd "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk "-L/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/Debug-iphonesimulator" "-F/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/Debug-iphonesimulator" -filelist "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/iBore.build/Debug-iphonesimulator/iBore.build/Objects-normal/i386/iBore.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/Debug-iphonesimulator/iBore.app/iBore"0#
+
+CProcessInfoPlistFile "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/Debug-iphonesimulator/iBore.app/Info.plist" iBore-Info.plist
+s322575332.248617
+e322575332.571781
+r1
+xProcessInfoPlistFile
+x/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/Debug-iphonesimulator/iBore.app/Info.plist
+xiBore-Info.plist
+lSLF07#2@24"Process iBore-Info.plist322575332#322575332#0(0"0(0#0#65"/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/iBore-Info.plist3415261714611515392#509"    cd "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility iBore-Info.plist -genpkginfo "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/Debug-iphonesimulator/iBore.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/Debug-iphonesimulator/iBore.app/Info.plist"0#
+
+CProcessPCH /var/folders/ag/agieRY3gEWOAjkD2DehWNE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iBore_Prefix-bdvmuaholywwjngmeetykbrcdchr/iBore_Prefix.pch.gch iBore_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s322575341.043340
+e322575345.528956
+r1
+xProcessPCH
+x/var/folders/ag/agieRY3gEWOAjkD2DehWNE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iBore_Prefix-bdvmuaholywwjngmeetykbrcdchr/iBore_Prefix.pch.gch
+xiBore_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@27"Precompile iBore_Prefix.pch322575341#322575345#0(0"0(0#0#65"/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/iBore_Prefix.pch8612686016#1888"    cd "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/iBore.build/Debug-iphonesimulator/iBore.build/iBore-generated-files.hmap" "-I/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/iBore.build/Debug-iphonesimulator/iBore.build/iBore-own-target-headers.hmap" "-I/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/iBore.build/Debug-iphonesimulator/iBore.build/iBore-all-target-headers.hmap" -iquote "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/iBore.build/Debug-iphonesimulator/iBore.build/iBore-project-headers.hmap" "-F/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/Debug-iphonesimulator" "-I/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/Debug-iphonesimulator/include" "-I/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/iBore.build/Debug-iphonesimulator/iBore.build/DerivedSources/i386" "-I/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/iBore.build/Debug-iphonesimulator/iBore.build/DerivedSources" -c "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/iBore_Prefix.pch" -o /var/folders/ag/agieRY3gEWOAjkD2DehWNE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iBore_Prefix-bdvmuaholywwjngmeetykbrcdchr/iBore_Prefix.pch.gch0#
+
+CTouch "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/Debug-iphonesimulator/iBore.app"
+s322575347.864318
+e322575348.088643
+r1
+xTouch
+x/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/Debug-iphonesimulator/iBore.app
+lSLF07#2@92"Touch /Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/Debug-iphonesimulator/iBore.app322575347#322575348#0(0"0(0#0#0"8612578016#300"    cd "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/peppe/Dropbox/Tirocinio/My Projects/iBore/build/Debug-iphonesimulator/iBore.app"0#
+
